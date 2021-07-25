@@ -35,7 +35,7 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE], Clickup, Jira, Confluence, Notio
 Computer science / Mathematician-system programmer.
 
 # Licenses & certifications
-- LeetCode Global TOP 500 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), [Code](https://github.com/sergeyleschev/leetcode-swift)).
+- LeetCode Global TOP 500 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), [Sources](https://github.com/sergeyleschev/leetcode-swift)).
 - Facebook Blueprint (Marketing SDK).
 - Snap Inc (Marketing SDK).
 - Bytedance (Marketing SDK).
