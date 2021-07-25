@@ -39,7 +39,7 @@ Computer science / Mathematician-system programmer.
 - Facebook Blueprint (Marketing SDK).
 - Snap Inc (Marketing SDK).
 - Bytedance (Marketing SDK).
-- AppsFlyer (Marketing SDL).
+- AppsFlyer (Marketing SDK).
 - Internet Initiatives Development Fund (IIDF / Economics).
 - Stanford University (Swift).
 - Coursera (Swift).
