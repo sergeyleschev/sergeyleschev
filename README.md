@@ -34,8 +34,22 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE], Clickup, Jira, Confluence, Notio
 ### Specialty
 Computer science / Mathematician-system programmer.
 
+# Licenses & certifications
+- LeetCode Global TOP 500 (Swift).
+- Facebook Blueprint (Marketing).
+- Snap Inc (Marketing).
+- Bytedance (Marketing).
+- AppsFlyer (Marketing).
+- Internet Initiatives Development Fund (IIDF / Economics).
+- Stanford University (Swift).
+- Coursera (Swift).
+- Zdes i Sejchas Consulting Group (Professional Management Skills).
+- LinkedIn Skill Asessment: Swift, Agile, Machine Learning, Object-Oriented Programming (OOP), Java, Git, Objective-C, XML, CSS, JSON, NoSQL, C#, Transact-SQL (T-SQL), React, Javascript, HTML, jQuery, MongoDB, Amazon Web Services (AWS), .NET Framework, Node.js, C++, Python (Programming Language), MySQL, Microsoft Azure, Google Analytics, Android, PHP, AWS Lambda, Google Cloud Platform (GCP), REST APIs, Scala, C, Bash. 
+ 
+
+
 # ⛲ Hobby
-- ⛵ Sailor Of The Year 2016, 2017.
+- ⛵ Sailor Of The Year 2016, 2017. Certified Skipper / IYT Coastal.
 - ⛳ Bronze 2018, Gold 2019 Winner ProGolf S Tour.
 - 🎾 Tennis / Night League.
 - 🎭 Theater.
