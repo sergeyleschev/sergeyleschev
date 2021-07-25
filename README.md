@@ -56,3 +56,5 @@ Computer science / Mathematician-system programmer.
  I have a clear focus on time-to-market and don't prioritize technical debt.
  
 🚀 #startups #management #swift #cto
+
+RU: Сергей Лещёв
