@@ -4,8 +4,8 @@
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
-# 💻 Stack
-### Technical
+# 💻 Technologies
+### Technical Stack
 Swift [4, 5+, UIKit, Autolayout, GCD/Operations, Alamofire, FP], SwiftUI [watchOS, Widgets], Apple TV/AirPlay [Composition, Secondary Display], Realm, Lottie, REST, Firebase, Java [7-8], PWA, Angular [2-6+], C#, .Net Core [1-3+], MS SQL [2016+], SQL, Objective-C, JavaScript, React, Node.js [10 Express;14 NestJS], TypeScript, MongoDB [3.6, 4.4, Config, Replication, Sharding], Mac Os, iOS [10;12;13;14+], Android, OneSignal, Localization (Phrase/json), Zeplin, Figma, Sketch.
 
 ### Analytics
@@ -24,7 +24,7 @@ Support Services: Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
 ### Reports
 P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 
-### PM
+### PM Stack
 Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE], Clickup, Jira, Confluence, Notion, Asana, Miro.
 
 # 🏫 Education
