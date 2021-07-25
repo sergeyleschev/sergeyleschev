@@ -36,10 +36,10 @@ Computer science / Mathematician-system programmer.
 
 # Licenses & certifications
 - LeetCode Global TOP 500 ([Swift](https://leetcode.com/sergeyleschev/)).
-- Facebook Blueprint (Marketing).
-- Snap Inc (Marketing).
-- Bytedance (Marketing).
-- AppsFlyer (Marketing).
+- Facebook Blueprint (Marketing SDK).
+- Snap Inc (Marketing SDK).
+- Bytedance (Marketing SDK).
+- AppsFlyer (Marketing SDL).
 - Internet Initiatives Development Fund (IIDF / Economics).
 - Stanford University (Swift).
 - Coursera (Swift).
