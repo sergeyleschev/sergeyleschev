@@ -34,11 +34,11 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE], Clickup, Jira, Confluence, Notio
 ### Specialty
 Computer science / Mathematician-system programmer.
 
-# Hobby
+# ⛲ Hobby
 - ⛵ Sailor Of The Year 2016, 2017.
 - ⛳ Bronze 2018, Gold 2019 Winner ProGolf S Tour.
 - 🎾 Tennis / Night League.
-- ⛲ Theater.
+- 🎭 Theater.
  
  I have a clear focus on time-to-market and don't prioritize technical debt.
  
