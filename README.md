@@ -1,5 +1,5 @@
 # 🏆 Awards
-### LeetCode Ranking: Global TOP 500
+### LeetCode Ranking #Dev: Global TOP 500
 **Languages**: Swift, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
