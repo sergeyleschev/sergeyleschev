@@ -35,7 +35,7 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE], Clickup, Jira, Confluence, Notio
 Computer science / Mathematician-system programmer.
 
 # Licenses & certifications
-- LeetCode Global TOP 500 (Swift).
+- LeetCode Global TOP 500 ([Swift](https://leetcode.com/sergeyleschev/)).
 - Facebook Blueprint (Marketing).
 - Snap Inc (Marketing).
 - Bytedance (Marketing).
@@ -44,9 +44,8 @@ Computer science / Mathematician-system programmer.
 - Stanford University (Swift).
 - Coursera (Swift).
 - Zdes i Sejchas Consulting Group (Professional Management Skills).
-- LinkedIn Skill Asessment: Swift, Agile, Machine Learning, Object-Oriented Programming (OOP), Java, Git, Objective-C, XML, CSS, JSON, NoSQL, C#, Transact-SQL (T-SQL), React, Javascript, HTML, jQuery, MongoDB, Amazon Web Services (AWS), .NET Framework, Node.js, C++, Python (Programming Language), MySQL, Microsoft Azure, Google Analytics, Android, PHP, AWS Lambda, Google Cloud Platform (GCP), REST APIs, Scala, C, Bash. 
+- LinkedIn Skill Asessment: [Swift (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Swift/report/), [Agile Methodologies](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Agile%20Methodologies/report/), [Machine Learning](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Machine%20Learning/report/), [Object-Oriented Programming (OOP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Object-Oriented%20Programming%20(OOP)/report/), [Java](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Java/report/), [Git](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Git/report/), [Objective-C](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Objective-C/report/), [XML](https://www.linkedin.com/in/sergeyleschev/detail/assessments/XML/report/), [CSS](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Cascading%20Style%20Sheets%20(CSS)/report/), [JSON](https://www.linkedin.com/in/sergeyleschev/detail/assessments/JSON/report/), [NoSQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/NoSQL/report/), [C#](https://www.linkedin.com/in/sergeyleschev/detail/assessments/C%23/report/), [Transact-SQL (T-SQL)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Transact-SQL%20(T-SQL)/report/), [React](https://www.linkedin.com/in/sergeyleschev/detail/assessments/React/report/), [Javascript](https://www.linkedin.com/in/sergeyleschev/detail/assessments/JavaScript/report/), [HTML](https://www.linkedin.com/in/sergeyleschev/detail/assessments/HTML/report/), [jQuery](https://www.linkedin.com/in/sergeyleschev/detail/assessments/jQuery/report/), [MongoDB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MongoDB/report/), [Amazon Web Services (AWS)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Amazon%20Web%20Services%20(AWS)/report/), [.NET Framework](https://www.linkedin.com/in/sergeyleschev/detail/assessments/.NET%20Framework/report/), [Node.js](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Node.js/report/), [C++](https://www.linkedin.com/in/sergeyleschev/detail/assessments/C++/report/), [Python (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Python%20(Programming%20Language)/report/), [MySQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MySQL/report/), [Microsoft Azure](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Microsoft%20Azure/report/), [Google Analytics](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/), [Android](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Android/report/), [PHP](https://www.linkedin.com/in/sergeyleschev/detail/assessments/PHP/report/), [AWS Lambda](https://www.linkedin.com/in/sergeyleschev/detail/assessments/AWS%20Lambda/report/), [Google Cloud Platform (GCP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Cloud%20Platform%20(GCP)/report/), [REST APIs](https://www.linkedin.com/in/sergeyleschev/detail/assessments/REST%20APIs/report/), [Scala](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Scala/report/), [C (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/C%20(Programming%20Language)/report/), [Bash](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Bash/report/). 
  
-
 
 # ⛲ Hobby
 - ⛵ Sailor Of The Year 2016, 2017. Certified Skipper / IYT Coastal.
@@ -57,18 +56,3 @@ Computer science / Mathematician-system programmer.
  I have a clear focus on time-to-market and don't prioritize technical debt.
  
 🚀 #startups #management #swift #cto
-
-<!--
-**sergeyleschev/sergeyleschev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
