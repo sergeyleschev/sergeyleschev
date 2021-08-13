@@ -25,7 +25,7 @@ Support Services: Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
 P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 
 ### PM Stack
-Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE], Clickup, Jira, Confluence, Notion, Asana, Miro.
+Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE], Clickup, Jira, Confluence, Notion, Asana, Miro, Bitrix24.
 
 # 🏫 Education
 ### Belarusian State University
