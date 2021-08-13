@@ -6,7 +6,7 @@
 
 # 💻 Technologies
 ### Technical Stack
-Swift [4, 5+, UIKit, Autolayout, GCD/Operations, Alamofire, FP], SwiftUI [watchOS, Widgets], Apple TV/AirPlay [Composition, Secondary Display], Realm, Lottie, REST, Firebase, Java [7-8], PWA, Angular [2-6+], C#, .Net Core [1-3+], MS SQL [2016+], SQL, Objective-C, JavaScript, React, Node.js [10 Express;14 NestJS], TypeScript, MongoDB [3.6, 4.4, Config, Replication, Sharding], Mac Os, iOS [10;12;13;14+], Android, OneSignal, Localization (Phrase/json), Zeplin, Figma, Sketch.
+Swift [4, 5+, UIKit, Autolayout, [UIKitPlus](https://github.com/sergeyleschev/UIKitPlus), GCD/Operations, [Alamofire](https://github.com/sergeyleschev/Alamofire), [ObjectMapper](https://github.com/sergeyleschev/ObjectMapper), FP], SwiftUI [watchOS, Widgets], Apple TV/AirPlay [Composition, Secondary Display], Realm, Lottie, REST, Firebase, Java [7-8], PWA, Angular [2-6+], C#, .Net Core [1-3+], MS SQL [2016+], SQL, Objective-C, JavaScript, React, Node.js [10 Express;14 NestJS], TypeScript, MongoDB [3.6, 4.4, Config, Replication, Sharding], Mac Os, iOS [10;12;13;14+], Android, OneSignal, Localization (Phrase/json), Zeplin, Figma, Sketch.
 
 ### Analytics
 Tableau, Amplitude [[SDK](https://github.com/sergeyleschev/Amplitude-iOS)], AppsFlyer [[SDK](https://github.com/sergeyleschev/AppsFlyerFramework) 5, 6+, Raw Data, Data Locker, Protect360, web2app, PBA], FB for Business [[SDK](https://github.com/sergeyleschev/facebook-ios-sdk), Graph, Conversions Api, Pixel, Reports], Snap, TikTok, GTM, Google Analytics, Apple SKAd (+PCM), Qlik, Yandex, Hotjar, SplitMetrics, Apphud, A/B testing.
