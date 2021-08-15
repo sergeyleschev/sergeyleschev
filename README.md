@@ -51,4 +51,6 @@ Computer science / Mathematician-system programmer.
  
 🚀 #startups #management #swift #cto
 
+ALT: SIARHEI LIASHCHOU
+
 RU: Сергей Лещёв
