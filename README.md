@@ -12,7 +12,7 @@ Swift [4, 5+, UIKit, Autolayout, [UIKitPlus](https://github.com/sergeyleschev/UI
 Tableau, Amplitude [[SDK](https://github.com/sergeyleschev/Amplitude-iOS)], AppsFlyer [[SDK](https://github.com/sergeyleschev/AppsFlyerFramework) 5, 6+, Raw Data, Data Locker, Protect360, web-2-app, PBA, Conversion Path, OneLink], FB for Business [[SDK](https://github.com/sergeyleschev/facebook-ios-sdk), Graph, Conversions Api, Pixel, Reports], Snap, TikTok, GTM, Google Analytics, Apple SKAd (+PCM), Qlik, Yandex, Hotjar, SplitMetrics, Apphud, Appfollow, A/B testing.
 
 ### Infra/DevOps
-CI/CD tools [Jenkins, Gitlab, AWS CodeBuild], Git [+Flow], Chromium + Transporter, Instana, Freshworks, Docker [+compose], Twilio, Zapier, Linux [+ssh, iptables, Ubuntu 16/18/20+, snap/npm/yarn/brew/etc.], Amazon Web Services (AWS), Digital Ocean (DO), GRE, IPSEC, VPN, Cloudflare [DNS, CDN, SSL, Guard, Rules], Crashlytics, Grafana, Sentry, RayGun, Nginx, Let's Encrypt [SSL], Win Server [+PowerShell], IIS, Pingdom, Apache JMeter, PAW, Postman, Charles Proxy, Indigo Browser.
+CI/CD tools [[Jenkins](https://github.com/sergeyleschev/jenkins), Gitlab, AWS CodeBuild], Git [+Flow], Chromium + Transporter, Instana, Freshworks, Docker [+compose], Twilio, Zapier, Linux [+ssh, iptables, Ubuntu 16/18/20+, snap/npm/yarn/brew/etc.], Amazon Web Services (AWS), Digital Ocean (DO), GRE, IPSEC, VPN, Cloudflare [DNS, CDN, SSL, Guard, Rules], Crashlytics, Grafana, Sentry, RayGun, Nginx, Let's Encrypt [SSL], Win Server [+PowerShell], IIS, Pingdom, Apache JMeter, PAW, Postman, Charles Proxy, Indigo Browser.
 
 ### Payment Providers
 Apple StoreKit [+Retention], Stripe [+Sigma SQL], PayPal, high-risk processing providers.
