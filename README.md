@@ -9,7 +9,7 @@
 Swift [4, 5+, UIKit, Autolayout, [UIKitPlus](https://github.com/sergeyleschev/UIKitPlus), GCD/Operations, [Alamofire](https://github.com/sergeyleschev/Alamofire), [ObjectMapper](https://github.com/sergeyleschev/ObjectMapper), FP, pre/after-main opt], SwiftUI [iOS, watchOS, Widgets, App Clips], Apple TV/AirPlay [Composition, Secondary Display], [Realm](https://github.com/sergeyleschev/realm-cocoa), [Lottie](https://github.com/sergeyleschev/lottie-ios), [JWT](https://github.com/sergeyleschev/JWTDecode.swift), [CryptoSwift](https://github.com/sergeyleschev/CryptoSwift), REST, Firebase, Java [7-8], PWA, Angular [2-6+], [Ionic Framework](https://github.com/sergeyleschev/ionic-framework) [3-5+], C#, .Net Core [1-3+], MS SQL [2016+], SQL, Objective-C, JavaScript, React [NextJS], Node.js [10 Express;14 NestJS], TypeScript, MongoDB [3.6, 4.4, Config, Replication, Sharding], Mockapi, Mac Os, iOS [10;12;13;14+], Android, [OneSignal](https://github.com/sergeyleschev/OneSignal-iOS-SDK), Localization (Phrase/[json](https://github.com/sergeyleschev/SwiftyJSON)), Zeplin, Figma, Sketch.
 
 ### Analytics
-Tableau, Amplitude [[SDK](https://github.com/sergeyleschev/Amplitude-iOS)], AppsFlyer [[SDK](https://github.com/sergeyleschev/AppsFlyerFramework) 5, 6+, Raw Data, Data Locker, Protect360, web-2-app, PBA, Conversion Path, OneLink], FB for Business [[SDK](https://github.com/sergeyleschev/facebook-ios-sdk), Graph, Conversions Api, Pixel, Reports], Snapchat, TikTok, GTM, Google Analytics, Apple SKAd (+PCM), Qlik, Yandex, Hotjar, SplitMetrics, Apphud, Appfollow, A/B testing.
+Tableau, Amplitude [[SDK](https://github.com/sergeyleschev/Amplitude-iOS)], AppsFlyer [[SDK](https://github.com/sergeyleschev/AppsFlyerFramework) 5, 6+, Raw Data, Data Locker, Protect360, web-2-app, People-Based Attribution (PBA), Conversion Path, OneLink (+custom params)], Facebook for Business [[SDK](https://github.com/sergeyleschev/facebook-ios-sdk), Graph, Conversions Api, Pixel, Reports], Snapchat, TikTok, Google Tag Manager (GTM), Google Analytics [GA4;UA], Apple SKAd (+PCM), Qlik, Yandex, Hotjar, SplitMetrics, Apphud, Appfollow, A/B testing.
 
 ### Infra/DevOps
 CI/CD tools [[Jenkins](https://github.com/sergeyleschev/jenkins), Gitlab, AWS CodeBuild, Github Actions], Git [+Flow], Chromium + Transporter, Instana, Freshworks, Docker [+compose], Twilio, Zapier, Linux [+ssh, iptables, Ubuntu 16/18/20+, snap/apt/npm/yarn/brew], Amazon Web Services (AWS), Digital Ocean (DO), GRE, IPSEC, VPN, Cloudflare [DNS, CDN, SSL, Guard, Rules], Crashlytics, Grafana, Sentry, RayGun, Nginx, Let's Encrypt [SSL], Win Server [+PowerShell], IIS, Pingdom, Apache JMeter, PAW, Postman, Charles Proxy, Indigo Browser, Published Apps [Apple AppStore, Google Play, Amazon Appstore, Huawei AppGallery, Galaxy Store, Snapcraft].
@@ -42,7 +42,7 @@ Computer science / Mathematician-system programmer.
 - Snap Inc (Marketing SDK).
 - Bytedance (Marketing SDK).
 - AppsFlyer (Marketing SDK).
-- Google Analytics (Marketing [SDK](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/)).
+- Google Analytics (Marketing [SDK](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/), GA4, UA).
 - Internet Initiatives Development Fund (IIDF / Economics).
 - Stanford University (Swift: [UIKit](https://github.com/sergeyleschev/stanford-cs193p), [SwiftUI](https://github.com/sergeyleschev/stanford-cs193p-swiftui)).
 - Coursera (Swift): Best Practices For iOS User Interface Design, Networking And Security in iOS Applications.
