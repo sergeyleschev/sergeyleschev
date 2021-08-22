@@ -18,8 +18,10 @@ CI/CD tools [[Jenkins](https://github.com/sergeyleschev/jenkins), Gitlab, AWS Co
 Apple StoreKit [+Retention], Stripe [+Sigma SQL], PayPal, high-risk processing providers [Solid Payments, Recurly, SolidGate, Braintree].
 
 ### Auth Providers
-Apple ID, Google, FB, Fitbit
-Support Services: Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
+Apple ID, Google, Facebook, Fitbit.
+
+### Support Services
+Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
 
 ### Reports
 P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
