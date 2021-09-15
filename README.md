@@ -15,7 +15,7 @@ Tableau, Amplitude [[SDK](https://github.com/sergeyleschev/Amplitude-iOS)], Apps
 CI/CD tools [XCode Cloud, [Jenkins](https://github.com/sergeyleschev/jenkins), Codemagic, Gitlab, AWS CodeBuild, DO/Github Actions], Git [+Flow], Chromium + Transporter, Instana, Freshworks, Docker [+compose], Twilio, Zapier, Linux [+ssh, iptables, Ubuntu 16/18/20+, snap/apt/npm/yarn/brew], Amazon Web Services (AWS), Digital Ocean (DO), GRE, IPSEC, VPN, Cloudflare [DNS, CDN, SSL, Guard, Rules], Crashlytics, Grafana, Sentry, RayGun, Nginx, Let's Encrypt [SSL], Win Server [+PowerShell], IIS, Pingdom, UptimeRobot, Apache JMeter, PAW, Postman, Charles Proxy, Indigo Browser, Published Apps [Apple AppStore, Google Play, Amazon Appstore, Huawei AppGallery, Galaxy Store, Snapcraft].
 
 ### Payment Providers
-Apple StoreKit [+Retention, Sales Reports], Stripe [NestJS [SDK](https://github.com/sergeyleschev/nestjs-stripe), NodeJS [SDK](https://github.com/sergeyleschev/stripe-node), +Sigma SQL Financial Reports], PayPal [SDK](https://github.com/sergeyleschev/PayPal-node-SDK), high-risk processing providers [Solid Payments, Recurly, SolidGate, Braintree].
+Apple StoreKit [+Retention, Sales Reports], Stripe [NestJS [SDK](https://github.com/sergeyleschev/nestjs-stripe), NodeJS [SDK](https://github.com/sergeyleschev/stripe-node), +Sigma SQL Financial Reports], PayPal [[SDK](https://github.com/sergeyleschev/PayPal-node-SDK)], high-risk processing providers [Solid Payments, Recurly, SolidGate, Braintree].
 
 ### Auth Providers
 Apple ID, Google, Facebook, Fitbit.
