@@ -1,5 +1,5 @@
 # 🏆 Awards
-### LeetCode Ranking #Dev: Global TOP 500
+### LeetCode Ranking #Dev: Global TOP 400
 **Languages**: Swift, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
@@ -37,7 +37,7 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD
 Computer science / Mathematician-system programmer.
 
 # Licenses & certifications
-- LeetCode Global TOP 500 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), [Sources](https://github.com/sergeyleschev/leetcode-swift)).
+- LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), [Sources](https://github.com/sergeyleschev/leetcode-swift)).
 - Facebook Blueprint (Marketing SDK).
 - Snap Inc (Marketing SDK).
 - Bytedance (Marketing SDK).
