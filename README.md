@@ -1,5 +1,7 @@
 # 🏆 Awards
 ### LeetCode Ranking #Dev: Global TOP 400
+![alt text](https://github.com/sergeyleschev/sergeyleschev/blob/9030fdf72ef372f13d0672106eda1e58543e6a40/leetcode-ranking.jpg)
+
 **Languages**: Swift, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
