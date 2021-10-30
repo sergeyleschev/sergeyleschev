@@ -1,6 +1,6 @@
 # 🏆 Awards
 ### Ranking #Dev: Global TOP 400
-![alt text](https://github.com/sergeyleschev/sergeyleschev/blob/9030fdf72ef372f13d0672106eda1e58543e6a40/leetcode-ranking.jpg)
+<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.jpg" alt="drawing" width="280"/>
 
 **Languages**: Swift, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
