@@ -6,6 +6,8 @@
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
+[S.Leschev iOS Dev Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md)
+
 # 💻 Technologies
 ### Technical Stack
 Swift [4, 5+, UIKit, Autolayout, [UIKitPlus](https://github.com/sergeyleschev/UIKitPlus), GCD/Operations/[Concurrency](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-swift-concurrency.md) 5.5+, [Alamofire](https://github.com/sergeyleschev/Alamofire), [ObjectMapper](https://github.com/sergeyleschev/ObjectMapper), SwiftLint, FP, pre/after-main opt], SwiftUI [iOS, watchOS, Widgets, App Clips], Apple TV/AirPlay [Composition, Secondary Display], [Realm](https://github.com/sergeyleschev/realm-cocoa), [Lottie](https://github.com/sergeyleschev/lottie-ios), [JWT](https://github.com/sergeyleschev/JWTDecode.swift), [CryptoSwift](https://github.com/sergeyleschev/CryptoSwift), REST, Firebase, Java [7-8], PWA, Angular [2-6+], [Ionic Framework](https://github.com/sergeyleschev/ionic-framework) [3-5+], React Native [[Redux](https://github.com/sergeyleschev/redux), [MobX](https://github.com/sergeyleschev/mobx)], JavaScript, React [[Next.JS](https://github.com/sergeyleschev/next.js)], Node.js [10x Express/SQL;14x NestJS 6;7+/TypeORM], TypeScript (+ESLint,Jest), C#, .Net Core [1-3+], MS SQL [2016+], SQL, Objective-C, MongoDB [3.6, 4.4, Config, Replication, Sharding], Mockapi, Mac Os, iOS [10;12;13;14+], Android, [OneSignal](https://github.com/sergeyleschev/OneSignal-iOS-SDK), Localization (Phrase/[json](https://github.com/sergeyleschev/SwiftyJSON)/[i18next](https://github.com/sergeyleschev/react-i18next)), Zeplin, Figma, Sketch.
