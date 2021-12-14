@@ -173,31 +173,31 @@ Tapping on a link will take you to relevant certificates.
         - [X] WatchKit
     - [X] `Computer Science knowledge`
         - [X] [`Algorithms`](https://github.com/sergeyleschev/leetcode-swift)
-            - [X] `Sorting`
-            - [X] `Graph Theory`
-                - [X] Trees
-            - [X] [`Strings`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Strings/RESOURCES.md)
-            - [X] Greedy
-            - [X] Dynamic Programming
-            - [X] Bit Manipulation
-            - [X] `Recursion`
-            - [X] Game Theory
-            - [X] NP Complete
-            - [X] [`Big-O notation`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
-        - [X] `Abstract Data Types`
-            - [X] `Stack`
-            - [X] `Array`
-            - [X] `List`
-            - [X] `Map`
-            - [X] Multimap
-            - [X] `Set`
-            - [X] Multiset (Bag)
-            - [X] `Graph`
-                - [X] Tree
-            - [X] `Queue`
-            - [X] Priority Queue
-            - [X] Double-ended priority queue
-            - [X] Double-ended queue
+            - [X] [`Sorting`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Graph Theory`](https://github.com/sergeyleschev/leetcode-swift)
+                - [X] [Trees](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Strings`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Greedy](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Dynamic Programming](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Bit Manipulation](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Recursion`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Game Theory](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [NP Complete](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Big-O notation`](https://github.com/sergeyleschev/leetcode-swift)
+        - [X] [`Abstract Data Types`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Stack`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Array`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`List`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Map`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Multimap](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Set`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Multiset (Bag)](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Graph`](https://github.com/sergeyleschev/leetcode-swift)
+                - [X] [Tree](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [`Queue`](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Priority Queue](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Double-ended priority queue](https://github.com/sergeyleschev/leetcode-swift)
+            - [X] [Double-ended queue](https://github.com/sergeyleschev/leetcode-swift)
         - [X] `System design`
             - [X] [Problems](Resources/iOS_Developer/Computer_Science_knowledge/System_design/Problems/RESOURCES.md)
         - [X] Programming Paradigms
