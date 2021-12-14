@@ -1,12 +1,12 @@
 # 🏆 Awards
-### Ranking #Dev: Global TOP 400
+### Ranking #Dev: Global TOP 400 [Certificate](https://leetcode.com/sergeyleschev/)
 <img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.jpg" alt="drawing" width="280"/>
 
 **Languages**: Swift, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
-[S.Leschev iOS Developer Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md)
+### [S.Leschev iOS Developer Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md)
 
 # 💻 Technologies
 ### Technical Stack
