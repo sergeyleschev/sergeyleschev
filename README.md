@@ -6,7 +6,6 @@
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
-### [S.Leschev iOS Developer Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md)
 
 # 💻 Technologies
 ### Technical Stack
@@ -41,6 +40,7 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD
 Computer science / Mathematician-system programmer.
 
 # Licenses & certifications
+- [S.Leschev iOS Developer Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
 - LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), [Sources](https://github.com/sergeyleschev/leetcode-swift)).
 - Facebook Blueprint (Marketing SDK).
 - Snap Inc (Marketing SDK).
