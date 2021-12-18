@@ -20,6 +20,9 @@ CI/CD tools [XCode Cloud, [Jenkins](https://github.com/sergeyleschev/jenkins), C
 ### Payment Providers
 Apple StoreKit [+Retention, Sales Reports], Stripe [nest-[SDK](https://github.com/sergeyleschev/nestjs-stripe), node-[SDK](https://github.com/sergeyleschev/stripe-node), Sigma SQL Financial Reports], PayPal [[SDK](https://github.com/sergeyleschev/PayPal-node-SDK)], high-risk processing providers [Solid Payments, Recurly, SolidGate, Braintree], CloudPayments, DCB (fortumo), SafeChange.
 
+### DeFi
+Metamask, SafePal, Launchpad, Uniswap, Pancake, Binance Smart Chain.
+
 ### Auth Providers
 Apple ID, Google, Facebook, Fitbit.
 
