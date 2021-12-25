@@ -21,7 +21,7 @@ CI/CD tools [XCode Cloud, [Jenkins](https://github.com/sergeyleschev/jenkins), C
 Apple StoreKit [+Retention, Sales Reports], Stripe [nest-[SDK](https://github.com/sergeyleschev/nestjs-stripe), node-[SDK](https://github.com/sergeyleschev/stripe-node), Sigma SQL Financial Reports], PayPal [[SDK](https://github.com/sergeyleschev/PayPal-node-SDK)], high-risk processing providers [Solid Payments, Recurly, SolidGate, Braintree], CloudPayments, DCB (fortumo), SafeChange.
 
 ### DeFi
-Solidity, Metamask, SafePal, Launchpad, PancakeSwap (BNB), Uniswap (ETH/Dextools.io), Gas/gwei Optimization, Slippage Optimization, CEX/DEX, Binance Smart Chain (BNB), Ethereum (ETH), Polygon (Matic), Tokens List [Coinmarketcap;CoinGecko].
+Solidity, Metamask, SafePal, Launchpad, PancakeSwap (BNB), Uniswap (ETH/Dextools.io), Gas/gwei Optimization, Front-Runner Bots, Slippage Optimization, CEX/DEX, Binance Smart Chain (BNB), Ethereum (ETH), Polygon (Matic), Tokens List [Coinmarketcap;CoinGecko].
 
 ### Auth Providers
 Apple ID, Google, Facebook, Fitbit.
