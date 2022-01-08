@@ -88,7 +88,7 @@ Tapping on a link will take you to relevant certificates.
                     - [X] MVC
                 - [X] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
                     - [X] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
-                    - [X] [`MVVM`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
+                    - [X] [`MVVM`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)/[`UIKitPlus`](https://github.com/sergeyleschev/UIKitPlus)
                     - [X] `MVP`
                     - [X] [`Clean architecture`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
                         - [X] [VIPER](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
