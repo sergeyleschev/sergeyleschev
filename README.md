@@ -24,7 +24,7 @@ Apple StoreKit [+Retention, Sales Reports], Stripe [nest-[SDK](https://github.co
 Solidity, Metamask, SafePal, Launchpad, PancakeSwap (BNB), Uniswap (ETH), Dextools/PooCoin, Gas/gwei Optimization, Front-Runner Bots, Slippage Optimization, CEX/DEX, Binance Smart Chain (BNB), Ethereum (ETH), Polygon (Matic), Tokens List [Coinmarketcap;CoinGecko].
 
 ### Auth Providers
-Apple ID, Google, Facebook, Fitbit.
+Apple ID, Google, Facebook (Meta), Fitbit.
 
 ### Support Services
 Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
@@ -70,4 +70,4 @@ ALT: SIARHEI LIASHCHOU
 
 RU: Сергей Лещёв
 
-Social: [Facebook](https://www.facebook.com/sergey.leschev)
+Social: [Meta](https://www.facebook.com/sergey.leschev)
