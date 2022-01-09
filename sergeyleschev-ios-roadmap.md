@@ -164,7 +164,7 @@ Tapping on a link will take you to relevant certificates.
             - [X] [Fastlane](Resources/iOS_Developer/Practical_knowledge/Tools/Fastlane/RESOURCES.md)
             - [X] Charles
         - [X] Continuous Integration
-            - [X] Jenkins / CircleCI / Bitrise / Github Actions
+            - [X] Github Actions / Jenkins
             - [X] Xcode server
         - [X] Security
             - [X] [Keychain](Resources/iOS_Developer/Practical_knowledge/Security/Keychain/RESOURCES.md)
