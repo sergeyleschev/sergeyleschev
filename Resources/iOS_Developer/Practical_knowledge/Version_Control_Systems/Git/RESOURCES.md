@@ -1,10 +1,10 @@
 ## iOS Developer > Practical knowledge > Version Control Systems > Git
 
 ### Websites
-- [ ] [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-- [ ] [git](https://git-scm.com)
+- [X] [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [X] [git](https://git-scm.com)
 
 ### Books
-- [ ] [Pro Git](https://git-scm.com/book/en/v2)
+- [X] [Pro Git](https://git-scm.com/book/en/v2)
 
 
