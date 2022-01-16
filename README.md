@@ -43,6 +43,7 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD
 Computer science / Mathematician-system programmer.
 
 # Licenses & certifications
+- [S.Leschev System Arhitect Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
 - [S.Leschev iOS Developer Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
 - LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), [Sources](https://github.com/sergeyleschev/leetcode-swift)).
 - Facebook Blueprint (Marketing SDK).
