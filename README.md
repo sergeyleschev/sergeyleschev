@@ -70,5 +70,3 @@ Computer science / Mathematician-system programmer.
 ALT: SIARHEI LIASHCHOU
 
 RU: Сергей Лещёв
-
-Social: [Meta](https://www.facebook.com/sergey.leschev)
