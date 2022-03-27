@@ -67,7 +67,7 @@ Computer science / Mathematician-system programmer.
  
 🚀 #startups #management #swift #cto
 
-Stack Overflow: [Developer Story](https://stackoverflow.com/users/story/8194804?view=Cv)
+Stack Overflow: [Developer Story](https://stackoverflow.com/cv/sergeyleschev)
 
 ALT: SIARHEI LIASHCHOU
 
