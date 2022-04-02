@@ -36,12 +36,13 @@ P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 ### PM Stack
 Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)].
 
+---
+
 # 🏫 Education
 ### Belarusian State University
-### Faculty of Applied Mathematics & Informatics.
 2004 – 2009
-### Specialty
-Computer science / Mathematician-system programmer.
+### Faculty of Applied Mathematics & Informatics.
+### Computer science / Mathematician-system programmer.
 
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
