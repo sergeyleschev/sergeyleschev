@@ -42,6 +42,8 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD
 ### Specialty
 Computer science / Mathematician-system programmer.
 
+<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
+
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Codility Golden Award for the Year of the Tiger Challenge [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/).
