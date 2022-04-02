@@ -6,6 +6,7 @@
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
+---
 
 # 💻 Technologies
 ### Technical Stack
@@ -42,8 +43,6 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD
 ### Specialty
 Computer science / Mathematician-system programmer.
 
-<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
-
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Codility Golden Award for the Year of the Tiger Challenge [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/).
@@ -65,6 +64,9 @@ Computer science / Mathematician-system programmer.
 - LinkedIn Skill Asessment (Infra/DevOps): [Bash](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Bash/report/), [Git](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Git/report/), [Amazon Web Services (AWS)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Amazon%20Web%20Services%20(AWS)/report/), [AWS Lambda](https://www.linkedin.com/in/sergeyleschev/detail/assessments/AWS%20Lambda/report/), [Google Cloud Platform (GCP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Cloud%20Platform%20(GCP)/report/), [Microsoft Azure](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Microsoft%20Azure/report/), [Hadoop](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Hadoop/report/), [IT Operations](https://www.linkedin.com/in/sergeyleschev/detail/assessments/IT%20Operations/report/).
 - LinkedIn Skill Asessment (AI): [Machine Learning](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Machine%20Learning/report/), [MATLAB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MATLAB/report/), [Python AI](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Python%20(Programming%20Language)/report/), [R (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/R%20(Programming%20Language)/report/).
 
+<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
+
+---
 
  I have a clear focus on time-to-market and don't prioritize technical debt.
  
