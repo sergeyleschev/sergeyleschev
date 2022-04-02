@@ -1,4 +1,15 @@
 # S.Leschev iOS Developer Roadmap
+
+## 🏆 Awards
+### Ranking #Dev: Global TOP 400 ([Certificate](https://leetcode.com/sergeyleschev/))
+<a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.jpg" alt="drawing" width="410"/></a>
+
+**Languages**: Swift.
+
+**Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
+
+---
+
 Tapping on a link will take you to relevant certificates.
 
 - [X] `iOS Developer`
@@ -208,3 +219,9 @@ Tapping on a link will take you to relevant certificates.
                     - [X] [RxSwift](Resources/iOS_Developer/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
                     - [X] RxRealm, RxDataSources
                     - [X] Combine
+
+# Licenses & certifications
+- 🏆 LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
+- 🏆 Codility Golden Award for the Year of the Tiger Challenge [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/).
+
+<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
