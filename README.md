@@ -48,19 +48,34 @@ Computer science / Mathematician-system programmer.
 ---
 
 # 🏆 Awards
-### Codility Golden Award for the Year of the Tiger Challenge
+### Golden Award for the Year of the Tiger Challenge
 
 <img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
 
 **Algorithmic skills**: Dynamic programming, Greedy algorithms, Catepillar method, Binary search algorithm, Fibonacci numbers, Euclidean algorithm, Sieve of Eratosthenes, Prime and composite numbers, Maximum slice problem, Stack and Queues, Sorting, Time Complexity, Arrays, Prefix Sums, Leader, etc.
 
-**Contests**: Algorithms, SQL, Data Structures, Bitwise operations (bit-ops), Frontend.
+**Contest**: Algorithms, SQL, Data Structures, Bitwise operations (bit-ops), Frontend.
+
+---
+
+### Golden Award Muad'Dib's
+
+<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
+
+**Algorithmic skills**: Dynamic programming, Greedy algorithms, Catepillar method, Binary search algorithm, Stack and Queues, Sorting, Time Complexity.
+
+**Languages**: Swift.
+
+**Contest**: Algorithms, Data Structures.
+
+
 
 ---
 
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
-- 🏆 Codility Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
+- 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
+- 🏆 Golden Award Muad'Dib's (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - ✔️ S.Leschev System Arhitect [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
 - ✔️ S.Leschev iOS Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
 - Facebook Blueprint (Marketing SDK).
