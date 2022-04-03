@@ -58,18 +58,6 @@ Computer science / Mathematician-system programmer.
 
 ---
 
-### Golden Award Muad'Dib's Challenge
-
-<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg" alt="drawing" width="410"/>
-
-**Algorithmic skills**: Dynamic programming, Greedy algorithms, Binary search algorithm, Stack and Queues, Sorting, Time Complexity.
-
-**Contest**: Algorithms, Data Structures.
-
-**Languages**: Swift.
-
----
-
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
@@ -91,6 +79,18 @@ Computer science / Mathematician-system programmer.
 - LinkedIn Skill Asessment (Databases): [MongoDB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MongoDB/report/), [NoSQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/NoSQL/report/), [Transact-SQL (T-SQL)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Transact-SQL%20(T-SQL)/report/), [MySQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MySQL/report/).
 - LinkedIn Skill Asessment (Infra/DevOps): [Bash](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Bash/report/), [Git](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Git/report/), [Amazon Web Services (AWS)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Amazon%20Web%20Services%20(AWS)/report/), [AWS Lambda](https://www.linkedin.com/in/sergeyleschev/detail/assessments/AWS%20Lambda/report/), [Google Cloud Platform (GCP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Cloud%20Platform%20(GCP)/report/), [Microsoft Azure](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Microsoft%20Azure/report/), [Hadoop](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Hadoop/report/), [IT Operations](https://www.linkedin.com/in/sergeyleschev/detail/assessments/IT%20Operations/report/).
 - LinkedIn Skill Asessment (AI): [Machine Learning](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Machine%20Learning/report/), [MATLAB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MATLAB/report/), [Python AI](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Python%20(Programming%20Language)/report/), [R (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/R%20(Programming%20Language)/report/).
+
+---
+
+### Golden Award Muad'Dib's Challenge
+
+<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg" alt="drawing" width="410"/>
+
+**Algorithmic skills**: Dynamic programming, Greedy algorithms, Binary search, Stack and Queues, Sorting, Time Complexity.
+
+**Contest**: Algorithms, Data Structures.
+
+**Languages**: Swift.
 
 ---
 
