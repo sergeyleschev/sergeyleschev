@@ -1,7 +1,7 @@
 # S.Leschev iOS Developer Roadmap
 
 ## 🏆 Awards
-### Ranking #Dev: Global TOP 400 ([Certificate](https://leetcode.com/sergeyleschev/))
+### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
 <a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.jpg" alt="drawing" width="410"/></a>
 
 **Languages**: Swift.
@@ -231,6 +231,6 @@ Tapping on a link will take you to relevant certificates.
                     - [X] Combine
 
 # Licenses & certifications
-- 🏆 LeetCode Global TOP 400 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
+- 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
