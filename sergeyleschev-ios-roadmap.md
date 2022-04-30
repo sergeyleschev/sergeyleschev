@@ -249,3 +249,47 @@ Tapping on a link will take you to relevant certificates.
 
 **Languages**: Swift.
 
+---
+
+# Latest Projects
+
+### [ iOS] Live Stream & Video Chat is the best streaming and video chatting tool.
+Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
+
+My Tech Stack:
+- Swift 5+
+- VIPER (Dependency Injection, Assembly, Services, Interactor, Presenter, State, Adapter) + MVVM (Combine, PromiseKit).
+- Alomofire, Decodable, Combine.
+- GCD/Operations.
+- Agora Video SDK, Chat SDK, Beautification SDK. WebRTC. GRPC.
+- Modular architecture (Frameworks, Development Pods).
+- SwiftGen (Localization, Image, Colors).
+- SwiftLint.
+- Auth: Facebook, Google, Apple ID.
+- Firebase, Crashlytics, Amplitude, AppsFlyer.
+- Push-notifications (Firebase).
+- UIKit, Autolayout, Core Animations, Skeleton, Lottie.
+- Git (Flow, CodeReview), Figma.
+
+### [ iOS] Health & Fitness iOS App 
+Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
+
+My Tech Stack:
+- Swift 5+
+- Clean Swift Architecture.
+- Alamofire, ObjectMapper.
+- GCD/Operations.
+- AVFoundation, Streaming: HLS (Cloudflare/nginx).
+- AirPlay [Composition (video+audio), Secondary Display].
+- Realm.
+- Modular architecture (Frameworks, Development Pods).
+- SwiftGen (Localization, Image, Colors).
+- SwiftLint.
+- Auth: Facebook, Google, Apple ID, Fitbit.
+- Amplitude, Crashlytics, AppsFlyer (+OneLink).
+- Analytics: Facebook (SKAd + Conversions API).
+- Push-notifications (OneSignal).
+- UIKit, Autolayout, Core Animations, Lottie.
+- Git (Flow, CodeReview), Zeplin, Figma, Sketch.
+
+Infra/DevOps: CI/CD tools, Linux, Digital Ocean, Docker [+compose], Cloudflare, Nginx.
