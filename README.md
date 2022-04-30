@@ -86,7 +86,7 @@ Computer science / Mathematician-system programmer.
 
 ### Golden Award Muad'Dib's Challenge
 
-<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg" alt="drawing" width="410"/>
+<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg" alt="drawing" width="410"/></a>
 
 **Algorithmic skills**: Dynamic programming, Greedy algorithms, Binary search, Stack and Queues, Sorting, Time Complexity.
 
