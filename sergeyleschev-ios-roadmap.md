@@ -224,7 +224,7 @@ Tapping on a link will take you to relevant certificates.
             - [X] [Double-ended priority queue](https://github.com/sergeyleschev/leetcode-swift) [`certificate`](https://leetcode.com/sergeyleschev/)
             - [X] [Double-ended queue](https://github.com/sergeyleschev/leetcode-swift) [`certificate`](https://leetcode.com/sergeyleschev/)
         - [X] `System design`
-            - [X] [Design large-scale systems / 2022 / Amazon, Dropbox, Instagram, Facebook, Netflix, Pinterest, Twitter, Uber, Youtube architectures / S.Leschev.](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
+            - [X] [Design large-scale systems / Amazon, Dropbox, Instagram, Facebook, Netflix, Pinterest, Twitter, Uber, Youtube](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
         - [X] Programming Paradigms
             - [X] Object-Oriented
             - [X] Functional
