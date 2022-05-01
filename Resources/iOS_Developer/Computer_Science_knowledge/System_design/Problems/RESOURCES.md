@@ -1,6 +1,6 @@
-## iOS Developer > Computer Science knowledge > System design > Problems
+## iOS Developer > Computer Science knowledge > System design
 
 ### Articles
-- [X] [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+- [X] [Design large-scale systems / 2022 / Amazon, Dropbox, Instagram, Facebook, Netflix, Pinterest, Twitter, Uber, Youtube architectures / S.Leschev.](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
 
 
