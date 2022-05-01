@@ -22,7 +22,7 @@
 
 ---
 
-## Resources
+Tapping on a link will take you to relevant certificates.
 
 - [X] Basics
     - [X] HTML
