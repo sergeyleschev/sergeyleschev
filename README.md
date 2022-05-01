@@ -8,7 +8,10 @@
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
----
+# 🚀 Developer Roadmap
+- - [X] S.Leschev System Arhitect [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
+- - [X] S.Leschev iOS Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
+- - [X] S.Leschev FullStack Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
 
 # 💻 Technologies
 ### Technical Stack
@@ -64,9 +67,6 @@ Computer science / Mathematician-system programmer.
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
-- - [X] S.Leschev System Arhitect [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
-- - [X] S.Leschev iOS Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
-- - [X] S.Leschev FullStack Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
 - Facebook Blueprint (Marketing SDK).
 - Snap Inc (Marketing SDK).
 - Bytedance (Marketing SDK).
@@ -99,6 +99,6 @@ Computer science / Mathematician-system programmer.
 
  I have a clear focus on time-to-market and don't prioritize technical debt.
  
-🚀 #startups #management #swift #cto
+🛩️ #startups #management #swift #typescript #cto
 
 ALT: SIARHEI LIASHCHOU
