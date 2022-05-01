@@ -12,13 +12,15 @@
 
 ---
 
-### Golden Award for the Year of the Tiger Challenge
+### Golden Award Muad'Dib's Challenge
 
-<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
+<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg" alt="drawing" width="410"/></a>
 
-**Algorithmic skills**: Dynamic programming, Greedy algorithms, Catepillar method, Binary search algorithm, Fibonacci numbers, Euclidean algorithm, Sieve of Eratosthenes, Prime and composite numbers, Maximum slice problem, Stack and Queues, Sorting, Time Complexity, Arrays, Prefix Sums, Leader, etc.
+**Languages**: Swift.
 
-**Contest**: Algorithms, SQL, Data Structures, Bitwise operations (bit-ops), Frontend.
+**Algorithmic skills**: Dynamic programming, Greedy algorithms, Binary search, Stack and Queues, Sorting, Time Complexity.
+
+**Contest**: Algorithms, Data Structures.
 
 ---
 
@@ -222,7 +224,7 @@ Tapping on a link will take you to relevant certificates.
             - [X] [Double-ended priority queue](https://github.com/sergeyleschev/leetcode-swift) [`certificate`](https://leetcode.com/sergeyleschev/)
             - [X] [Double-ended queue](https://github.com/sergeyleschev/leetcode-swift) [`certificate`](https://leetcode.com/sergeyleschev/)
         - [X] `System design`
-            - [X] [Problems](Resources/iOS_Developer/Computer_Science_knowledge/System_design/Problems/RESOURCES.md)
+            - [X] [Design large-scale systems / 2022 / Amazon, Dropbox, Instagram, Facebook, Netflix, Pinterest, Twitter, Uber, Youtube architectures / S.Leschev.](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
         - [X] Programming Paradigms
             - [X] Object-Oriented
             - [X] Functional
@@ -236,20 +238,6 @@ Tapping on a link will take you to relevant certificates.
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
-
----
-
-### Golden Award Muad'Dib's Challenge
-
-<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg" alt="drawing" width="410"/></a>
-
-**Algorithmic skills**: Dynamic programming, Greedy algorithms, Binary search, Stack and Queues, Sorting, Time Complexity.
-
-**Contest**: Algorithms, Data Structures.
-
-**Languages**: Swift.
-
----
 
 # Latest Projects
 
