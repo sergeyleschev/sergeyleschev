@@ -229,7 +229,7 @@ Tapping on a link will take you to relevant certificates.
             - [X] Object-Oriented
             - [X] Functional
                 - [X] Functional Reactive Programming Frameworks
-                    - [X] React Native
+                    - [X] [React Native](https://github.com/sergeyleschev/react-native)
                     - [X] [RxSwift](Resources/iOS_Developer/Computer_Science_knowledge/Programming_Paradigms/Functional/Functional_Reactive_Programming_Frameworks/RxSwift/RESOURCES.md)
                     - [X] RxRealm, RxDataSources
                     - [X] Combine
