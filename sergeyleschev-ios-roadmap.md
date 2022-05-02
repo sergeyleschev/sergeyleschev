@@ -245,8 +245,8 @@ Tapping on a link will take you to relevant certificates.
 ### [ iOS] Live Stream & Video Chat is the best streaming and video chatting tool.
 Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
 
-My Tech Stack:
-- Swift 5+
+Tech Stack:
+- Swift 5+.
 - VIPER (Dependency Injection, Assembly, Services, Interactor, Presenter, State, Adapter) + MVVM (Combine, PromiseKit).
 - Alomofire, Decodable, Combine.
 - GCD/Operations.
@@ -263,8 +263,8 @@ My Tech Stack:
 ### [ iOS] Health & Fitness iOS App 
 Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
 
-My Tech Stack:
-- Swift 5+
+Tech Stack:
+- Swift 5+.
 - Clean Swift Architecture.
 - Alamofire, ObjectMapper.
 - GCD/Operations.
@@ -280,5 +280,23 @@ My Tech Stack:
 - Push-notifications (OneSignal).
 - UIKit, Autolayout, Core Animations, Lottie.
 - Git (Flow, CodeReview), Zeplin, Figma, Sketch.
+
+### [ iOS] Health & Fitness iOS App (Motivations Coach, Pet Project)
+Role: iOS Developer.
+
+Tech Stack:
+- SwiftUI.
+- Watch Extension (WatchOS).
+- AppClip Extension.
+- Widget (iOS 14).
+- ObjectMapper.
+- URLSession.
+- Keychain.
+- Lottie.
+- Push Notifications.
+- GCD/Operations.
+- Git, Figma, Sketch.
+
+Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation).
 
 Infra/DevOps: CI/CD tools, Linux, Digital Ocean, Docker [+compose], Cloudflare, Nginx.
