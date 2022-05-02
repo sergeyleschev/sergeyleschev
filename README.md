@@ -103,4 +103,10 @@ Computer science / Mathematician-system programmer.
  
 🛩️ #startups #management #swift #typescript #cto
 
+📧 Email: [sergey.leschev@gmail.com](mailto:sergey.leschev@gmail.com)
+
+👋 LinkedIn: [https://www.linkedin.com/in/sergeyleschev/](https://www.linkedin.com/in/sergeyleschev/)
+
+👋 Twitter: [https://twitter.com/sergeyleschev](https://twitter.com/sergeyleschev)
+
 ALT: SIARHEI LIASHCHOU
