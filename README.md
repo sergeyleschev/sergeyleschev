@@ -41,6 +41,18 @@ P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 ### PM Stack
 Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)].
 
+## Project Guidelines
+A set of best practices in my projects.
+- [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
+- [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
+- [X] [Environments](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#environments)
+- [X] [Dependencies](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#dependencies)
+- [X] [Tesing](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#testing)
+- [X] [Structure and Naming](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#structure-and-naming)
+- [X] [Code Style](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#code-style)
+- [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
+- [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
+
 ---
 
 # 🏫 Education
@@ -68,7 +80,7 @@ Computer science / Mathematician-system programmer.
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 -  Health & Fitness iOS App / [Fitness Motivation](https://github.com/sergeyleschev/motivation) / AppStore (Sources: [SwiftUI](https://github.com/sergeyleschev/motivation)) @ S. Leschev.
--  Utility MacOS App / Calc-It / Core (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
+-  Utility MacOS App / Calc-It / Core / AppStore (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
 - Facebook Blueprint (Marketing SDK).
 - Snap Inc (Marketing SDK).
 - Bytedance (Marketing SDK).
