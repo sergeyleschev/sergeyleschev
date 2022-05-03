@@ -9,7 +9,7 @@
 
 <a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" alt="drawing" width="410"/></a>
 
-**Languages**: Swift, TypeScript, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
+**Languages**: Swift, TypeScript, Shell, Database (T-SQL, PL/SQL, MySQL).
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
