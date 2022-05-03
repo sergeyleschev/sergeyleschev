@@ -109,4 +109,6 @@ Computer science / Mathematician-system programmer.
 
 👋 Twitter: [https://twitter.com/sergeyleschev](https://twitter.com/sergeyleschev)
 
+👋 Github: [https://github.com/sergeyleschev](https://github.com/sergeyleschev)
+
 ALT: SIARHEI LIASHCHOU
