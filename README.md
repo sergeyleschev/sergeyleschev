@@ -1,5 +1,5 @@
 # Sergey Leschev
-### Tech Lead (Swift, TypeScript, SQL)
+### Tech Lead (Swift, TypeScript, Database)
 <hr />
 
 # 🏆 Awards
