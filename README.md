@@ -1,5 +1,6 @@
 # Sergey Leschev
-### Tech Lead (Swift, TypeScript, Database)
+### Tech Lead 
+[Swift](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md) / [TypeScript](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md) / [Database](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
 <hr />
 
 # 🏆 Awards
