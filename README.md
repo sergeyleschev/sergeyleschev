@@ -1,3 +1,7 @@
+# Sergey Leschev
+### Tech Lead (Swift, TypeScript, SQL)
+<hr />
+
 # 🏆 Awards
 ### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
 <a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" alt="drawing" width="410"/></a>
@@ -12,6 +16,8 @@
 - [X] S.Leschev iOS Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
 - [X] S.Leschev FullStack Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
 - [X] S.Leschev System Arhitect [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
+
+<div style="page-break-after: always;"></div>
 
 # 💻 Technologies
 ### Tech Stack
@@ -34,6 +40,8 @@ Apple ID, Google, Facebook (Meta), Fitbit.
 
 ### Support Services
 Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
+
+<br />
 
 ### Reports
 P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
@@ -64,6 +72,8 @@ Computer science / Mathematician-system programmer.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 # 🏆 Awards
 ### Golden Award for the Year of the Tiger Challenge
 
@@ -74,6 +84,8 @@ Computer science / Mathematician-system programmer.
 **Contest**: Algorithms, SQL, Data Structures, Bitwise operations (bit-ops), Frontend.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
@@ -98,7 +110,9 @@ Computer science / Mathematician-system programmer.
 - LinkedIn Skill Asessment (AI): [Machine Learning](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Machine%20Learning/report/), [MATLAB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MATLAB/report/), [Python AI](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Python%20(Programming%20Language)/report/), [R (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/R%20(Programming%20Language)/report/).
 
 ---
+<div style="page-break-after: always;"></div>
 
+# 🏆 Awards
 ### Golden Award Muad'Dib's Challenge
 
 <a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg?raw=true" alt="drawing" width="410"/></a>
@@ -111,7 +125,11 @@ Computer science / Mathematician-system programmer.
 
 ---
 
- I have a clear focus on time-to-market and don't prioritize technical debt.
+<div style="page-break-after: always;"></div>
+
+# Contacts
+
+I have a clear focus on time-to-market and don't prioritize technical debt.
  
 🛩️ #startups #management #swift #typescript #cto
 
@@ -122,5 +140,7 @@ Computer science / Mathematician-system programmer.
 👋 Twitter: [https://twitter.com/sergeyleschev](https://twitter.com/sergeyleschev)
 
 👋 Github: [https://github.com/sergeyleschev](https://github.com/sergeyleschev)
+
+🖨️ PDF Overview: [Download](https://github.com/sergeyleschev/sergeyleschev/raw/main/sergeyleschev-readme.pdf) | [light < 1 MB](https://github.com/sergeyleschev/sergeyleschev/raw/main/sergeyleschev-readme-light.pdf)
 
 ALT: SIARHEI LIASHCHOU
