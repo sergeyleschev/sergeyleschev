@@ -132,11 +132,11 @@ Computer science / Mathematician-system programmer.
 
 I have a clear focus on time-to-market and don't prioritize technical debt.
  
-🛩️ #startups #management #swift #typescript #cto
+🛩️ #startups #management #cto #swift #typescript #database
 
 📧 Email: [sergey.leschev@gmail.com](mailto:sergey.leschev@gmail.com)
 
-👋 LinkedIn: [https://www.linkedin.com/in/sergeyleschev/](https://www.linkedin.com/in/sergeyleschev/)
+👋 LinkedIn: [https://linkedin.com/in/sergeyleschev](https://www.linkedin.com/in/sergeyleschev/)
 
 👋 Twitter: [https://twitter.com/sergeyleschev](https://twitter.com/sergeyleschev)
 
