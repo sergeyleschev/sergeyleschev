@@ -140,7 +140,7 @@ Tapping on a link will take you to relevant certificates.
     - [X] [React Intl](https://github.com/yahoo/react-intl)
     - [X] [React i18next](https://react.i18next.com/)
 - [X] Server Side Rendering
-    - [X] [Next.js](https://nextjs.org/)
+    - [X] [Next.js](https://nextjs.org/) [`sources`](https://github.com/sergeyleschev/next.js)
 - [X] Static Site Generator
     - [X] [Gatsby](https://www.gatsbyjs.org/)
 - [X] Backend Framework Integration
@@ -184,20 +184,20 @@ Tapping on a link will take you to relevant certificates.
 - [X] Databases
 
    - [X] Relational
-      - [X] [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
-      - [X] [PostgreSQL](https://www.postgresql.org/)
-      - [X] [MariaDB](https://mariadb.org/)
-      - [X] [MySQL](https://www.mysql.com/)
+      - [X] [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017) [`sources.sql`](https://github.com/sergeyleschev/leetcode-typescript)
+      - [X] [PostgreSQL](https://www.postgresql.org/) [`sources.sql`](https://github.com/sergeyleschev/leetcode-typescript)
+      - [X] [MariaDB](https://mariadb.org/) [`sources.sql`](https://github.com/sergeyleschev/leetcode-typescript)
+      - [X] [MySQL](https://www.mysql.com/) [`sources.sql`](https://github.com/sergeyleschev/leetcode-typescript)
    - [X] Cloud Databases
-      - [X] [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
-      - [X] [DynamoDB](https://aws.amazon.com/dynamodb/)
+      - [X] [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db) [`sources`](https://github.com/sergeyleschev/leetcode-typescript)
+      - [X] [DynamoDB](https://aws.amazon.com/dynamodb/) [`sources`](https://github.com/sergeyleschev/leetcode-typescript)
    - [X] Search Engines
       - [X] [ElasticSearch](https://www.elastic.co/)
       - [X] [Solr](http://lucene.apache.org/solr/)
       - [X] [Sphinx](http://sphinxsearch.com/)
    - [X] NoSQL
-      - [X] [MongoDB](https://www.mongodb.com/)
-      - [X] [Redis](https://redis.io/)
+      - [X] [MongoDB](https://www.mongodb.com/) [`sources`](https://github.com/sergeyleschev/leetcode-typescript)
+      - [X] [Redis](https://redis.io/) [`sources`](https://github.com/sergeyleschev/leetcode-typescript)
       - [X] [Apache Cassandra](http://cassandra.apache.org/)
       - [X] [LiteDB](https://github.com/mbdavid/LiteDB)
       - [X] [RavenDB](https://github.com/ravendb/ravendb)
@@ -207,8 +207,8 @@ Tapping on a link will take you to relevant certificates.
 
    - [X] [Node-Cache](https://www.npmjs.com/package/node-cache)
    - [X] Distributed Cache
-      - [X] [Redis](https://redis.io/)
-      - [X] [Memcached](https://memcached.org/)
+      - [X] [Redis](https://redis.io/) [`sources`](https://github.com/sergeyleschev/leetcode-typescript)
+      - [X] [Memcached](https://memcached.org/) [`sources`](https://github.com/sergeyleschev/leetcode-typescript)
    - [X] [Memory Cache](https://www.npmjs.com/package/memory-cache)
 
 - [X] Logging
