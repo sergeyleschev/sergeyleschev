@@ -20,7 +20,6 @@
   - [API security](#api-security)
   - [API documentation](#api-documentation)
 - [Accessibility](#a11y)
-- [Licensing](#licensing)
 
 <a name="git"></a>
 
