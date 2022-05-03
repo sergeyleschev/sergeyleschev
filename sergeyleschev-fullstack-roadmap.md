@@ -2,9 +2,9 @@
 
 ## 🏆 Awards
 ### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
-<a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png" alt="drawing" width="410"/></a>
+<a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" alt="drawing" width="410"/></a>
 
-<a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png" alt="drawing" width="410"/></a>
+<a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" alt="drawing" width="410"/></a>
 
 **Languages**: TypeScript, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
@@ -14,7 +14,7 @@
 
 ### Golden Award for the Year of the Tiger Challenge
 
-<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg" alt="drawing" width="410"/>
+<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg?raw=true" alt="drawing" width="410"/>
 
 **Algorithmic skills**: Dynamic programming, Greedy algorithms, Catepillar method, Binary search algorithm, Fibonacci numbers, Euclidean algorithm, Sieve of Eratosthenes, Prime and composite numbers, Maximum slice problem, Stack and Queues, Sorting, Time Complexity, Arrays, Prefix Sums, Leader, etc.
 
@@ -23,6 +23,8 @@
 ---
 
 Tapping on a link will take you to relevant certificates.
+
+## Front-End
 
 - [X] Basics
     - [X] HTML
@@ -145,6 +147,148 @@ Tapping on a link will take you to relevant certificates.
     - [X] [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
 - [X] Mobile
     - [X] [React Native](https://github.com/sergeyleschev/react-native)
+- [X] Desktop
+    - [X] [Electron](https://github.com/sergeyleschev/electron)
+    - [X] [React Native Windows](https://github.com/Microsoft/react-native-windows)
+
+
+## Back-End
+
+- [X] Prerequisites
+
+   - [X] [JavaScript](https://www.w3schools.com/js/)
+   - [X] [NPM](https://docs.npmjs.com/)
+   - [X] [Node.js](https://nodejs.org/en/docs/)
+   - [X] [ECMAScript](https://www.w3schools.com/js/js_versions.asp)
+
+- [X] General Development Skills
+
+   - [X] Learn GIT, create a few repositories on GitHub, share your code with other people
+   - [X] Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+   - [X] Read a few books about algorithms and data structures
+   - [X] [Clean code](https://www.w3schools.com/js/js_conventions.asp)
+
+- [X] Web Frameworks
+
+   - [X] [Express.js](https://expressjs.com/)
+   - [X] [Adonis.js](https://adonisjs.com/)
+   - [X] [Meteor.js](https://www.meteor.com/)
+   - [X] [Nest.js](https://nestjs.com/)
+   - [X] [Sails.js](https://sailsjs.com/)
+   - [X] [Koa.js](https://koajs.com/)
+   - [X] [Loopback.io](https://loopback.io/)
+   - [X] [egg.js](https://eggjs.org/en/index.html)
+   - [X] [midway](https://midwayjs.org/midway/en/)
+
+- [X] Databases
+
+   - [X] Relational
+      - [X] [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+      - [X] [PostgreSQL](https://www.postgresql.org/)
+      - [X] [MariaDB](https://mariadb.org/)
+      - [X] [MySQL](https://www.mysql.com/)
+   - [X] Cloud Databases
+      - [X] [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
+      - [X] [DynamoDB](https://aws.amazon.com/dynamodb/)
+   - [X] Search Engines
+      - [X] [ElasticSearch](https://www.elastic.co/)
+      - [X] [Solr](http://lucene.apache.org/solr/)
+      - [X] [Sphinx](http://sphinxsearch.com/)
+   - [X] NoSQL
+      - [X] [MongoDB](https://www.mongodb.com/)
+      - [X] [Redis](https://redis.io/)
+      - [X] [Apache Cassandra](http://cassandra.apache.org/)
+      - [X] [LiteDB](https://github.com/mbdavid/LiteDB)
+      - [X] [RavenDB](https://github.com/ravendb/ravendb)
+      - [X] [CouchDB](http://couchdb.apache.org/)
+
+- [X] Caching
+
+   - [X] [Node-Cache](https://www.npmjs.com/package/node-cache)
+   - [X] Distributed Cache
+      - [X] [Redis](https://redis.io/)
+      - [X] [Memcached](https://memcached.org/)
+   - [X] [Memory Cache](https://www.npmjs.com/package/memory-cache)
+
+- [X] Logging
+
+   - [X] Log Frameworks
+      - [X] [Node-Loggly](https://www.loggly.com/docs/node-js-logs-2/)
+      - [X] [Winston](https://github.com/winstonjs/winston)
+      - [X] [Node-Bunyan](https://github.com/trentm/node-bunyan)
+      - [X] [Morgan](https://github.com/expressjs/morgan)
+   - [X] Log Management System
+      - [X] [Sentry.io](http://sentry.io)
+      - [X] [Loggly.com](https://loggly.com)
+
+- [X] Template Engines
+   - [X] [Mustache.js](https://mustache.github.io/)
+   - [X] [Handlebars](https://handlebarsjs.com/)
+   - [X] [EJS](https://ejs.co/)
+   - [X] [Pug](https://pugjs.org/api/getting-started.html)
+   - [X] [Nunjunks.js](https://mozilla.github.io/nunjucks/)
+- [X] Real-Time Communication
+
+   - [X] [Socket.IO](https://socket.io/)
+
+- [X] Typed Superset
+
+   - [X] [TypeScript](https://www.typescriptlang.org/)
+   - [X] [Flow](https://flow.org/)
+
+- [X] API Clients
+
+    - [X] REST
+       - [X] [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
+       - [X] [Axios](https://github.com/axios/axios)
+    - [X] [GraphQL](https://graphql.org/)
+    - [X] [Authentication]
+
+- [X] Good to Know
+
+    - [X] [Async.js](https://caolan.github.io/async/)
+    - [X] [PM2](http://pm2.keymetrics.io/)
+    - [X] [Commander.js](https://github.com/tj/commander.js/)
+    - [X] [Passport](http://www.passportjs.org/)
+    - [X] [Nodemailer](https://nodemailer.com/about/)
+    - [X] [Marked](https://marked.js.org/#/README.md#README.md)
+    - [X] [ESLint](https://eslint.org/)
+
+- [X] Testing
+
+    - [X] Unit, Behavior, Integration Testing
+       - [X] [Jest](https://jestjs.io/)
+       - [X] [Jasmine](https://jasmine.github.io/)
+       - [X] [Chai](https://www.chaijs.com/)
+       - [X] [Mocha](https://mochajs.org/)
+       - [X] [Enzyme](https://github.com/airbnb/enzyme)
+       - [X] [Sinon](https://sinonjs.org/)
+    - [X] E2E Testing
+       - [X] [Selenium](https://help.crossbrowsertesting.com/selenium-testing/getting-started/javascript/)
+       - [X] [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+
+- [X] Task Scheduling
+
+    - [X] [Agenda](https://github.com/agenda/agenda)
+    - [X] [Cronicle](https://github.com/jhuckaby/Cronicle)
+    - [X] [Node-Schedule](https://www.npmjs.com/package/node-schedule)
+
+- [X] MicroServices
+
+    - [X] Message-Broker
+       - [X] [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
+       - [X] [Apache Kafka](https://www.npmjs.com/package/kafka-node)
+       - [X] [ActiveMQ](https://github.com/apache/activemq)
+       - [X] [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
+    - [X] Message-Bus
+       - [X] [Distribus](https://distribus.com/)
+       - [X] [BusMQ](https://github.com/capriza/node-busmq)
+
+- [X] [Design-Patterns](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
+- [X] [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)
+
+## Computer Science
+
 - [X] `Computer Science knowledge`
     - [X] [`Algorithms`](https://github.com/sergeyleschev/leetcode-typescript) [`certificate`](https://leetcode.com/sergeyleschev/)
         - [X] [`Sorting`](https://github.com/sergeyleschev/leetcode-typescript) [`certificate`](https://leetcode.com/sergeyleschev/)
