@@ -320,6 +320,7 @@ Tapping on a link will take you to relevant certificates.
         - [X] [Design large-scale systems / Amazon, Dropbox, Instagram, Facebook, Netflix, Pinterest, Twitter, Uber, Youtube](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
 
 # Project Guidelines
+A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
 - [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
 - [X] [Environments](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#environments)
