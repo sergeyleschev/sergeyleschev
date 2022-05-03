@@ -234,6 +234,15 @@ Tapping on a link will take you to relevant certificates.
                     - [X] RxRealm, RxDataSources
                     - [X] Combine
 
+# Project Guidelines
+A set of best practices in my projects.
+- [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
+- [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
+- [X] [Environments](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#environments)
+- [X] [Code Style](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#code-style)
+- [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
+- [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
+
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
