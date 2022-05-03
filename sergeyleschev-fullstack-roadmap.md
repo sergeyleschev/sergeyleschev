@@ -45,8 +45,8 @@ Tapping on a link will take you to relevant certificates.
     - [X] Learn GIT, create a few repositories on GitHub, share your code with other people
     - [X] Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
     - [X] Get familiar with terminal, configure your shell (bash, zsh, fish)
-    - [X] Read a few books about algorithms and data structures
-    - [X] Read a few books about design patterns
+    - [X] Studied algorithms and data structures in the university
+    - [X] Studied design patterns in the university
 - [X] Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [X] Get familiar with tools that you will be using
     - [X] Package Managers
@@ -165,7 +165,8 @@ Tapping on a link will take you to relevant certificates.
 
    - [X] Learn GIT, create a few repositories on GitHub, share your code with other people
    - [X] Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - [X] Read a few books about algorithms and data structures
+   - [X] Studied algorithms and data structures in the university
+   - [X] Studied design patterns in the university
    - [X] [Clean code](https://www.w3schools.com/js/js_conventions.asp)
 
 - [X] Web Frameworks
