@@ -308,6 +308,8 @@ Tech Stack:
 - GCD/Operations.
 - Git, Figma, Sketch.
 
-Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation).
+Website: [motivations.coach](https://sergeyleschev.github.io/motivations.coach/)
+
+Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation)
 
 Infra/DevOps: CI/CD tools, Linux, Digital Ocean, Docker [+compose], Cloudflare, Nginx.
