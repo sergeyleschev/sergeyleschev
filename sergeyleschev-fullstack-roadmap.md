@@ -242,7 +242,7 @@ Tapping on a link will take you to relevant certificates.
        - [X] [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
        - [X] [Axios](https://github.com/axios/axios)
     - [X] [GraphQL](https://graphql.org/)
-    - [X] [Authentication]
+    - [X] Authentication
 
 - [X] Good to Know
 
