@@ -63,7 +63,7 @@ And again you'd need to tell what the previous code actually does.
 
 ## Versioning
 
-We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the link to tags on this repository.
+We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the link to [tags](https://github.com/sergeyleschev/sergeyleschev/tags) on this repository.
 
 
 ## Configuration
