@@ -319,6 +319,16 @@ Tapping on a link will take you to relevant certificates.
     - [X] `System design`
         - [X] [Design large-scale systems / Amazon, Dropbox, Instagram, Facebook, Netflix, Pinterest, Twitter, Uber, Youtube](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
 
+# Project Guidelines
+- [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
+- [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
+- [X] [Environments](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#environments)
+- [X] [Dependencies](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#dependencies)
+- [X] [Tesing](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#testing)
+- [X] [Structure and Naming](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#structure-and-naming)
+- [X] [Code Style](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#code-style)
+- [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
+- [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
 
 # Licenses & certifications
 - 🏆 LeetCode Global TOP 300 (TypeScript: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
