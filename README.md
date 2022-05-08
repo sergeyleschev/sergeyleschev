@@ -6,9 +6,9 @@
 
 # 🏆 Awards
 ### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
-<a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" alt="drawing" width="410"/></a>
+<a href="https://leetcode.com/sergeyleschev/"><img alt="img" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" alt="drawing" width="410"/></a>
 
-<a href="https://leetcode.com/sergeyleschev/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" alt="drawing" width="410"/></a>
+<a href="https://leetcode.com/sergeyleschev/"><img alt="img" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" alt="drawing" width="410"/></a>
 
 **Languages**: Swift, TypeScript, Shell, Database (T-SQL, PL/SQL, MySQL).
 
@@ -81,7 +81,7 @@ Computer science / Mathematician-system programmer.
 # 🏆 Awards
 ### Golden Award for the Year of the Tiger Challenge
 
-<img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg?raw=true" alt="drawing" width="410"/>
+<img alt="img" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg?raw=true" alt="drawing" width="410"/>
 
 **Algorithmic skills**: Dynamic programming, Greedy algorithms, Catepillar method, Binary search algorithm, Fibonacci numbers, Euclidean algorithm, Sieve of Eratosthenes, Prime and composite numbers, Maximum slice problem, Stack and Queues, Sorting, Time Complexity, Arrays, Prefix Sums, Leader, etc.
 
@@ -115,7 +115,7 @@ Computer science / Mathematician-system programmer.
 # 🏆 Awards
 ### Golden Award Muad'Dib's Challenge
 
-<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg?raw=true" alt="drawing" width="410"/></a>
+<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img alt="img" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg?raw=true" alt="drawing" width="410"/></a>
 
 **Algorithmic skills**: Dynamic programming, Greedy algorithms, Binary search, Stack and Queues, Sorting, Time Complexity.
 
