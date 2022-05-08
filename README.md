@@ -1,7 +1,8 @@
-# Sergey Leschev
-### Tech Lead 
-[Swift](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md) / [TypeScript](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md) / [Database](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
-<hr />
+# Sergey Leschev, Tech Lead 
+[Swift](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md) | [TypeScript](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md) | [Database](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md) 
+---
+
+<br />
 
 # 🏆 Awards
 ### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
@@ -50,6 +51,8 @@ P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 ### PM Stack
 Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)].
 
+<div style="page-break-after: always;"></div>
+
 ## Project Guidelines
 A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
@@ -94,11 +97,7 @@ Computer science / Mathematician-system programmer.
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 -  Health & Fitness iOS App / [Fitness Motivation](https://github.com/sergeyleschev/motivation) / AppStore (Website: [motivations.coach](https://sergeyleschev.github.io/motivations.coach/), Sources: [SwiftUI](https://github.com/sergeyleschev/motivation)) @ S. Leschev.
 -  Utility MacOS App / Calc-It / Core / AppStore (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
-- Facebook Blueprint (Marketing SDK).
-- Snap Inc (Marketing SDK).
-- Bytedance (Marketing SDK).
-- AppsFlyer (Marketing SDK).
-- Google Analytics (Marketing [SDK](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/), GA4, UA).
+- Facebook Blueprint, Snap Inc, Bytedance, AppsFlyer (Marketing SDK), Google Analytics ([SDK](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/), GA4, UA).
 - Internet Initiatives Development Fund (IIDF / Economics).
 - Stanford University (Swift: [UIKit](https://github.com/sergeyleschev/stanford-cs193p), [SwiftUI](https://github.com/sergeyleschev/stanford-cs193p-swiftui)).
 - Coursera (Swift): Best Practices For iOS User Interface Design, Networking And Security in iOS Applications.
@@ -109,8 +108,8 @@ Computer science / Mathematician-system programmer.
 - LinkedIn Skill Asessment (Databases): [MongoDB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MongoDB/report/), [NoSQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/NoSQL/report/), [Transact-SQL (T-SQL)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Transact-SQL%20(T-SQL)/report/), [MySQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MySQL/report/).
 - LinkedIn Skill Asessment (Infra/DevOps): [Bash](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Bash/report/), [Git](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Git/report/), [Amazon Web Services (AWS)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Amazon%20Web%20Services%20(AWS)/report/), [AWS Lambda](https://www.linkedin.com/in/sergeyleschev/detail/assessments/AWS%20Lambda/report/), [Google Cloud Platform (GCP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Cloud%20Platform%20(GCP)/report/), [Microsoft Azure](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Microsoft%20Azure/report/), [Hadoop](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Hadoop/report/), [IT Operations](https://www.linkedin.com/in/sergeyleschev/detail/assessments/IT%20Operations/report/).
 - LinkedIn Skill Asessment (AI): [Machine Learning](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Machine%20Learning/report/), [MATLAB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MATLAB/report/), [Python AI](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Python%20(Programming%20Language)/report/), [R (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/R%20(Programming%20Language)/report/).
-
 ---
+
 <div style="page-break-after: always;"></div>
 
 # 🏆 Awards
