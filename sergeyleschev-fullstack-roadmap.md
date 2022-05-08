@@ -2,9 +2,9 @@
 
 ## 🏆 Awards
 ### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
-<a href="https://leetcode.com/sergeyleschev/"><img alt="img" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" alt="drawing" width="410"/></a>
+<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" width="410"/></a>
 
-<a href="https://leetcode.com/sergeyleschev/"><img alt="img" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" alt="drawing" width="410"/></a>
+<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" width="410"/></a>
 
 **Languages**: TypeScript, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
@@ -16,7 +16,7 @@
 
 ### Golden Award for the Year of the Tiger Challenge
 
-<img alt="img" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg?raw=true" alt="drawing" width="410"/>
+<img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.jpg?raw=true" width="410"/>
 
 **Algorithmic skills**: Dynamic programming, Greedy algorithms, Catepillar method, Binary search algorithm, Fibonacci numbers, Euclidean algorithm, Sieve of Eratosthenes, Prime and composite numbers, Maximum slice problem, Stack and Queues, Sorting, Time Complexity, Arrays, Prefix Sums, Leader, etc.
 
