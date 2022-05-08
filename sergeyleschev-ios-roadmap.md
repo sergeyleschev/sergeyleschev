@@ -12,6 +12,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ### Golden Award Muad'Dib's Challenge
 
 <a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg?raw=true" alt="drawing" width="410"/></a>
@@ -23,6 +25,8 @@
 **Contest**: Algorithms, Data Structures.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 Tapping on a link will take you to relevant certificates.
 
@@ -234,6 +238,8 @@ Tapping on a link will take you to relevant certificates.
                     - [X] RxRealm, RxDataSources
                     - [X] Combine
 
+<div style="page-break-after: always;"></div>
+
 # Project Guidelines
 A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
@@ -250,6 +256,7 @@ A set of best practices in my projects.
 -  Health & Fitness iOS App / [Fitness Motivation](https://github.com/sergeyleschev/motivation) / AppStore (Sources: [SwiftUI](https://github.com/sergeyleschev/motivation)) @ S. Leschev.
 -  Utility MacOS App / Calc-It / Core (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
 
+<div style="page-break-after: always;"></div>
 
 # Latest Projects
 
@@ -270,6 +277,8 @@ Tech Stack:
 - Push-notifications (Firebase).
 - UIKit, Autolayout, Core Animations, Skeleton, Lottie.
 - Git (Flow, CodeReview), Figma.
+
+<div style="page-break-after: always;"></div>
 
 ### [ iOS] Health & Fitness iOS App 
 Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
@@ -292,6 +301,8 @@ Tech Stack:
 - UIKit, Autolayout, Core Animations, Lottie.
 - Git (Flow, CodeReview), Zeplin, Figma, Sketch.
 
+<div style="page-break-after: always;"></div>
+
 ### [ iOS] Health & Fitness iOS App (Motivations Coach, Pet Project)
 Role: iOS Developer.
 
@@ -312,4 +323,24 @@ Website: [motivations.coach](https://sergeyleschev.github.io/motivations.coach/)
 
 Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation)
 
-Infra/DevOps: CI/CD tools, Linux, Digital Ocean, Docker [+compose], Cloudflare, Nginx.
+<div style="page-break-after: always;"></div>
+
+# Contacts
+
+I have a clear focus on time-to-market and don't prioritize technical debt.
+ 
+🛩️ #startups #management #cto #swift #typescript #database
+
+📧 Email: [sergey.leschev@gmail.com](mailto:sergey.leschev@gmail.com)
+
+👋 LinkedIn: [https://linkedin.com/in/sergeyleschev](https://www.linkedin.com/in/sergeyleschev/)
+
+👋 Twitter: [https://twitter.com/sergeyleschev](https://twitter.com/sergeyleschev)
+
+👋 Github: [https://github.com/sergeyleschev](https://github.com/sergeyleschev)
+
+🌎 Website: [https://sergeyleschev.github.io](https://sergeyleschev.github.io)
+
+🖨️ PDF: [Download](https://github.com/sergeyleschev/sergeyleschev/raw/main/sergeyleschev-ios-roadmap.pdf)
+
+ALT: SIARHEI LIASHCHOU
