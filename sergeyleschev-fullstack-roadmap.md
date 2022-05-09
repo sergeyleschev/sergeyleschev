@@ -310,7 +310,7 @@ Tapping on a link will take you to relevant certificates.
         - [X] [Game Theory](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
         - [X] [NP Complete](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
         - [X] [`Big-O notation`](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
-    - [X] [`Abstract Data Types`](https://github.com/sergeyleschev/leetcode-typescript) [`certificate`](https://leetcode.com/sergeyleschev/)
+    - [X] [`Abstract Data Types`](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
         - [X] [`Stack`](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
         - [X] [`Array`](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
         - [X] [`List`](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
