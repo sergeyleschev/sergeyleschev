@@ -209,6 +209,8 @@ Tapping on a link will take you to relevant certificates.
             - [X] RxRealm, RxDataSources
             - [X] Combine
 
+<div style="page-break-after: always;"></div>
+
 ## Computer Science
 
 - [X] `Computer Science knowledge`
