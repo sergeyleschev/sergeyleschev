@@ -1,5 +1,5 @@
 # Sergey Leschev, Tech Lead 
-[Swift](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html) | [TypeScript](https://sergeyleschev.github.io/sergeyleschev-fullstack-roadmap.html) | [Database](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md) 
+[Swift](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html) | [TypeScript](https://sergeyleschev.github.io/sergeyleschev-fullstack-roadmap.html) | [System Architect](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md) 
 ---
 
 <br />
