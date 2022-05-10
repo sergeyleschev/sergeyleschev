@@ -19,8 +19,6 @@
 - S.Leschev FullStack Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
 - S.Leschev System Architect [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
 
-<a href="https://www.codewars.com/users/sergeyleschev"><img alt="Codewars" src="https://www.codewars.com/users/sergeyleschev/badges/small" /></a>
-
 <div style="page-break-after: always;"></div>
 
 # 💻 Technologies
