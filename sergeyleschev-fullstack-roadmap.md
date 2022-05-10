@@ -28,8 +28,6 @@
 
 Tapping on a link will take you to relevant certificates.
 
-<a href="https://www.codewars.com/users/sergeyleschev"><img alt="Codewars" src="https://www.codewars.com/users/sergeyleschev/badges/small" /></a>
-
 ## Front-End
 
 - [X] Basics
