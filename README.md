@@ -51,6 +51,8 @@ P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 ### PM Stack
 Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)].
 
+<br />
+
 <div style="page-break-after: always;"></div>
 
 ## Project Guidelines
@@ -65,7 +67,7 @@ A set of best practices in my projects.
 - [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
 - [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
 
----
+<br />
 
 ## 🏫 Education
 ### Belarusian State University
@@ -74,7 +76,7 @@ A set of best practices in my projects.
 
 Computer science / Mathematician-system programmer.
 
----
+<br />
 
 <div style="page-break-after: always;"></div>
 
@@ -87,7 +89,7 @@ Computer science / Mathematician-system programmer.
 
 **Contest**: Algorithms, SQL, Data Structures, Bitwise operations (bit-ops), Frontend.
 
----
+<br />
 
 <div style="page-break-after: always;"></div>
 
@@ -108,7 +110,7 @@ Computer science / Mathematician-system programmer.
 - LinkedIn Skill Asessment (Databases): [MongoDB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MongoDB/report/), [NoSQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/NoSQL/report/), [Transact-SQL (T-SQL)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Transact-SQL%20(T-SQL)/report/), [MySQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MySQL/report/).
 - LinkedIn Skill Asessment (Infra/DevOps): [Bash](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Bash/report/), [Git](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Git/report/), [Amazon Web Services (AWS)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Amazon%20Web%20Services%20(AWS)/report/), [AWS Lambda](https://www.linkedin.com/in/sergeyleschev/detail/assessments/AWS%20Lambda/report/), [Google Cloud Platform (GCP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Cloud%20Platform%20(GCP)/report/), [Microsoft Azure](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Microsoft%20Azure/report/), [Hadoop](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Hadoop/report/), [IT Operations](https://www.linkedin.com/in/sergeyleschev/detail/assessments/IT%20Operations/report/).
 - LinkedIn Skill Asessment (AI): [Machine Learning](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Machine%20Learning/report/), [MATLAB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MATLAB/report/), [Python AI](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Python%20(Programming%20Language)/report/), [R (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/R%20(Programming%20Language)/report/).
----
+<br />
 
 <div style="page-break-after: always;"></div>
 
@@ -123,7 +125,7 @@ Computer science / Mathematician-system programmer.
 
 **Languages**: Swift.
 
----
+<br />
 
 <div style="page-break-after: always;"></div>
 
