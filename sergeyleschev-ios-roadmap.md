@@ -246,7 +246,7 @@ Tapping on a link will take you to relevant certificates.
 
 <div style="page-break-after: always;"></div>
 
-# Project Guidelines
+## Project Guidelines
 A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
 - [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
@@ -255,7 +255,7 @@ A set of best practices in my projects.
 - [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
 - [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
 
-# Licenses & certifications
+## Licenses & certifications
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - LinkedIn Skill Asessment (Mobile): [Swift (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Swift/report/), [Object-Oriented Programming (OOP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Object-Oriented%20Programming%20(OOP)/report/), [Objective-C](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Objective-C/report/), [C++](https://www.linkedin.com/in/sergeyleschev/detail/assessments/C++/report/), [Ionic](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Angular/report/), [JSON](https://www.linkedin.com/in/sergeyleschev/detail/assessments/JSON/report/), [XML](https://www.linkedin.com/in/sergeyleschev/detail/assessments/XML/report/), [Android](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Android/report/), [Kotlin](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Kotlin/report/), [Maven](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Maven/report/), [Java](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Java/report/), [REST APIs](https://www.linkedin.com/in/sergeyleschev/detail/assessments/REST%20APIs/report/).
@@ -264,7 +264,7 @@ A set of best practices in my projects.
 
 <div style="page-break-after: always;"></div>
 
-# Latest Projects
+## Latest Projects
 
 ### [ iOS] Live Stream & Video Chat is the best streaming and video chatting tool.
 Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
@@ -331,7 +331,7 @@ Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation)
 
 <div style="page-break-after: always;"></div>
 
-# Contacts
+## Contacts
 
 I have a clear focus on time-to-market and don't prioritize technical debt.
  
