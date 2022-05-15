@@ -367,6 +367,6 @@ I have a clear focus on time-to-market and don't prioritize technical debt.
 
 🌎 Website: [https://sergeyleschev.github.io](https://sergeyleschev.github.io)
 
-🖨️ PDF: [Download](https://github.com/sergeyleschev/sergeyleschev/raw/main/sergeyleschev-fullstack-roadmap.pdf)
+🖨️ PDF: [Download](https://sergeyleschev.github.io/sergeyleschev-fullstack-roadmap.pdf)
 
 ALT: SIARHEI LIASHCHOU
