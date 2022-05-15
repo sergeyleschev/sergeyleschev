@@ -4,7 +4,7 @@
 
 <br />
 
-# 🏆 Awards
+## 🏆 Awards
 ### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
 <a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" width="410"/></a>
 
@@ -14,14 +14,14 @@
 
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
-# 🚀 Developer Roadmap
+## 🚀 Developer Roadmap
 - S.Leschev iOS Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
 - S.Leschev FullStack Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
 - S.Leschev System Architect [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
 
 <div style="page-break-after: always;"></div>
 
-# 💻 Technologies
+## 💻 Technologies
 ### Tech Stack
 Swift [[4](https://github.com/sergeyleschev/codility-swift), [5+](https://github.com/sergeyleschev/leetcode-swift), [UIKit](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md), Autolayout, [UIKitPlus](https://github.com/sergeyleschev/UIKitPlus), GCD/Operations/[Concurrency](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-swift-concurrency.md) 5.5+, [Alamofire](https://github.com/sergeyleschev/Alamofire), [ObjectMapper](https://github.com/sergeyleschev/ObjectMapper), SwiftLint, SwiftGen, FP, pre/after-main opt], SwiftUI [iOS, watchOS, Widgets, App Clips], Apple TV/AirPlay [Composition, Secondary Display], [Realm](https://github.com/sergeyleschev/realm-cocoa), [Lottie](https://github.com/sergeyleschev/lottie-ios), [JWT](https://github.com/sergeyleschev/JWTDecode.swift), [CryptoSwift](https://github.com/sergeyleschev/CryptoSwift), REST, Firebase, Java [7-8], PWA, Angular [2-6+], [Ionic Framework](https://github.com/sergeyleschev/ionic-framework) [3-5+], [React Native](https://github.com/sergeyleschev/react-native) [[Redux](https://github.com/sergeyleschev/redux), [MobX](https://github.com/sergeyleschev/mobx)], JavaScript, React [[Next.JS](https://github.com/sergeyleschev/next.js); [Redux](https://github.com/sergeyleschev/redux), [Redux Tookit](https://github.com/sergeyleschev/redux-toolkit) +Slice/Immer, [Prime React](https://github.com/sergeyleschev/primereact)], Node.js [10x Express/SQL;14x NestJS 6;7+/TypeORM], [TypeScript](https://github.com/sergeyleschev/leetcode-typescript) (+ESLint, Jest), C#, .Net Core [1-3+], MS SQL [2016+], SQL, Objective-C, MongoDB [3.6, 4.4, Config, Replication, Sharding], RabbitMQ, GraphQL [Schemas; Resolver; Request; Validation; Queries&Mutations; Apollo; Reactive], Apache Kafka, Mockapi, Mac Os, iOS [10;12;13;14+], Android, [OneSignal](https://github.com/sergeyleschev/OneSignal-iOS-SDK), Localization (Phrase/[json](https://github.com/sergeyleschev/SwiftyJSON)/[i18next](https://github.com/sergeyleschev/react-i18next)), Zeplin, Figma, Sketch.
 
@@ -67,7 +67,7 @@ A set of best practices in my projects.
 
 ---
 
-# 🏫 Education
+## 🏫 Education
 ### Belarusian State University
 2004 – 2009
 ### Faculty of Applied Mathematics & Informatics.
@@ -78,7 +78,7 @@ Computer science / Mathematician-system programmer.
 
 <div style="page-break-after: always;"></div>
 
-# 🏆 Awards
+## 🏆 Awards
 ### Golden Award for the Year of the Tiger Challenge
 
 <img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking.png?raw=true" width="410"/>
@@ -91,7 +91,7 @@ Computer science / Mathematician-system programmer.
 
 <div style="page-break-after: always;"></div>
 
-# Licenses & certifications
+## Licenses & certifications
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
@@ -112,7 +112,7 @@ Computer science / Mathematician-system programmer.
 
 <div style="page-break-after: always;"></div>
 
-# 🏆 Awards
+## 🏆 Awards
 ### Golden Award Muad'Dib's Challenge
 
 <a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.png?raw=true" width="410"/></a>
@@ -127,7 +127,7 @@ Computer science / Mathematician-system programmer.
 
 <div style="page-break-after: always;"></div>
 
-# Contacts
+## Contacts
 
 I have a clear focus on time-to-market and don't prioritize technical debt.
  
