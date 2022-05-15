@@ -16,7 +16,7 @@
 
 ### Golden Award Muad'Dib's Challenge
 
-<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.jpg?raw=true" width="410"/></a>
+<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.png?raw=true" width="410"/></a>
 
 **Languages**: Swift.
 
