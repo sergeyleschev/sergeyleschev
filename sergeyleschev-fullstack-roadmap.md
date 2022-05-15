@@ -329,7 +329,7 @@ Tapping on a link will take you to relevant certificates.
 
 <div style="page-break-after: always;"></div>
 
-# Project Guidelines
+## Project Guidelines
 A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
 - [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
@@ -341,7 +341,7 @@ A set of best practices in my projects.
 - [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
 - [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
 
-# Licenses & certifications
+## Licenses & certifications
 - 🏆 LeetCode Global TOP 300 (TypeScript: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (TypeScript: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Codility](https://github.com/sergeyleschev/codility-swift)).
 - LinkedIn Skill Asessment (Front-End): [Front-end Development](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Front-end%20Development/report/), [Angular](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Angular/report/), [React](https://www.linkedin.com/in/sergeyleschev/detail/assessments/React/report/), [Javascript](https://www.linkedin.com/in/sergeyleschev/detail/assessments/JavaScript/report/), [HTML](https://www.linkedin.com/in/sergeyleschev/detail/assessments/HTML/report/), [CSS](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Cascading%20Style%20Sheets%20(CSS)/report/), [jQuery](https://www.linkedin.com/in/sergeyleschev/detail/assessments/jQuery/report/).
@@ -351,7 +351,7 @@ A set of best practices in my projects.
 
 <div style="page-break-after: always;"></div>
 
-# Contacts
+## Contacts
 
 I have a clear focus on time-to-market and don't prioritize technical debt.
  
