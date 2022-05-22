@@ -1,5 +1,5 @@
 # Sergey Leschev, Tech Lead 
-[Swift](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html) | [TypeScript](https://sergeyleschev.github.io/sergeyleschev-fullstack-roadmap.html) | [System Architect](https://sergeyleschev.github.io/sergeyleschev-system-architect-roadmap.html) 
+[Swift (L6+)](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html) | [TypeScript (L5+)](https://sergeyleschev.github.io/sergeyleschev-fullstack-roadmap.html) | [System Architect (L7+)](https://sergeyleschev.github.io/sergeyleschev-system-architect-roadmap.html) 
 ---
 
 <br />
@@ -15,9 +15,9 @@
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
 ## 🚀 Developer Roadmap
-- S.Leschev iOS Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
-- S.Leschev FullStack Developer [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
-- S.Leschev System Architect [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
+- S.Leschev iOS Developer (L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
+- S.Leschev FullStack Developer (L5+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
+- S.Leschev System Architect (L7+) [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
 
 <br />
 
