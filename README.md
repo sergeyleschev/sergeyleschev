@@ -24,40 +24,40 @@
 <div style="page-break-after: always;"></div>
 
 ## 💻 Technologies
-### Tech Stack
+### Tech Stack (L7+)
 Swift [[4](https://github.com/sergeyleschev/codility-swift), [5+](https://github.com/sergeyleschev/leetcode-swift), [UIKit](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md), Autolayout, [UIKitPlus](https://github.com/sergeyleschev/UIKitPlus), GCD/Operations/[Concurrency](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-swift-concurrency.md) 5.5+, [Alamofire](https://github.com/sergeyleschev/Alamofire), [ObjectMapper](https://github.com/sergeyleschev/ObjectMapper), SwiftLint, SwiftGen, FP, pre/after-main opt], SwiftUI [iOS, watchOS, Widgets, App Clips], Apple TV/AirPlay [Composition, Secondary Display], [Realm](https://github.com/sergeyleschev/realm-cocoa), [Lottie](https://github.com/sergeyleschev/lottie-ios), [JWT](https://github.com/sergeyleschev/JWTDecode.swift), [CryptoSwift](https://github.com/sergeyleschev/CryptoSwift), REST, Firebase, Java [7-8], PWA, Angular [2-6+], [Ionic Framework](https://github.com/sergeyleschev/ionic-framework) [3-5+], [React Native](https://github.com/sergeyleschev/react-native) [[Redux](https://github.com/sergeyleschev/redux), [MobX](https://github.com/sergeyleschev/mobx)], JavaScript, React [[Next.JS](https://github.com/sergeyleschev/next.js); [Redux](https://github.com/sergeyleschev/redux), [Redux Tookit](https://github.com/sergeyleschev/redux-toolkit) +Slice/Immer, [Prime React](https://github.com/sergeyleschev/primereact)], CSS [scss], Node.js [10x Express/SQL;14x NestJS 6;7+/TypeORM], [TypeScript](https://github.com/sergeyleschev/leetcode-typescript) (+ESLint, Jest), C#, .Net Core [1-3+], MS SQL [2016+], SQL, Objective-C, MongoDB [3.6, 4.4, Config, Replication, Sharding], RabbitMQ, GraphQL [Schemas; Resolver; Request; Validation; Queries&Mutations; Apollo; Reactive], Apache Kafka, Mockapi, Mac Os, iOS [10;12;13;14+], Android, [OneSignal](https://github.com/sergeyleschev/OneSignal-iOS-SDK), Localization (Phrase/[json](https://github.com/sergeyleschev/SwiftyJSON)/[i18next](https://github.com/sergeyleschev/react-i18next)), Zeplin, Figma, Sketch.
 
-### Analytics
+### Analytics (L5+)
 Tableau, Amplitude [[SDK](https://github.com/sergeyleschev/Amplitude-iOS)], AppsFlyer [[SDK](https://github.com/sergeyleschev/AppsFlyerFramework) 5, 6+, Raw Data, Data Locker, Protect360, web-2-app, People-Based Attribution (PBA), Conversion Path, OneLink], Facebook for Business [[SDK](https://github.com/sergeyleschev/facebook-ios-sdk), Graph, [Conversions Api](https://github.com/sergeyleschev/facebook-nodejs-business-sdk), Pixel, Reports], Snapchat, TikTok, Google Tag Manager (GTM), Google Analytics [GA4;UA], Apple SKAd (+PCM), Qlik, Yandex, Hotjar, SplitMetrics, Apphud, Appfollow, A/B testing, Airflow, Airbyte, Qonversion.
 
-### Infra/DevOps
+### Infra/DevOps (L5+)
 CI/CD tools [XCode Cloud, Github Actions/DO, [Jenkins](https://github.com/sergeyleschev/jenkins), Codemagic, Gitlab, AWS CodeBuild], Git [+Flow], Chromium + Transporter, Instana, Freshworks, Docker [+compose], Twilio, Zapier, Linux [+ssh, iptables, Ubuntu 16/18/20+, snap/apt/npm/yarn/brew], Amazon Web Services (AWS), Digital Ocean (DO), GRE, IPSEC, VPN, Cloudflare [DNS, CDN, SSL, Guard, Rules], Crashlytics, Grafana, Sentry, RayGun, Nginx, Let's Encrypt [SSL], Win Server [+PowerShell], IIS, Pingdom, UptimeRobot, Apache JMeter, PAW, Postman, Charles Proxy, Indigo Browser, Published Apps [Apple AppStore, Google Play, Amazon Appstore, Huawei AppGallery, Galaxy Store, Snapcraft].
 
-### Payment Providers
+### Payment Providers (L5+)
 Apple StoreKit [+Retention, Sales Reports], Stripe [nest-[SDK](https://github.com/sergeyleschev/nestjs-stripe), node-[SDK](https://github.com/sergeyleschev/stripe-node), Sigma SQL Financial Reports], PayPal [[SDK](https://github.com/sergeyleschev/PayPal-node-SDK)], high-risk processing providers [Solid Payments, Recurly, SolidGate, Braintree], CloudPayments, DCB (fortumo), Paymentwall, SafeChange.
 
-### DeFi
+### DeFi (L4+)
 Solidity (Consensys, Alchemy), Metamask, SafePal, Launchpad, PancakeSwap (BNB), Uniswap (ETH), Dextools/PooCoin, Gas/gwei Optimization, Front-Runner Bots, Slippage Optimization, CEX/DEX, Binance Smart Chain (BNB), Ethereum (ETH), Polygon (Matic), Tokens List [Coinmarketcap;CoinGecko].
 
-### Auth Providers
+### Auth Providers (L5+)
 Apple ID, Google, Facebook (Meta), Fitbit.
 
-### Support Services
+### Support Services (L5+)
 Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
 
 <br />
 
-### Reports
+### Reports (L5+)
 P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 
-### PM Stack
+### PM Stack (L7+)
 Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)].
 
 <br />
 
 <div style="page-break-after: always;"></div>
 
-## Project Guidelines
+## Project Guidelines (L7+)
 A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
 - [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
