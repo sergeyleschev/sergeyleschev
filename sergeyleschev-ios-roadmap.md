@@ -266,7 +266,7 @@ A set of best practices in my projects.
 
 ## Latest Projects
 
-### [ iOS] Live Stream & Video Chat is the best streaming and video chatting tool.
+### [ iOS] Live Stream & Video Chat is the best streaming and video chatting tool. (L6+)
 Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
 
 Tech Stack:
@@ -286,7 +286,7 @@ Tech Stack:
 
 <div style="page-break-after: always;"></div>
 
-### [ iOS] Health & Fitness iOS App 
+### [ iOS] Health & Fitness iOS App  (L6+)
 Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
 
 Tech Stack:
@@ -309,7 +309,7 @@ Tech Stack:
 
 <div style="page-break-after: always;"></div>
 
-### [ iOS] Health & Fitness iOS App (Motivations Coach, Pet Project)
+### [ iOS] Health & Fitness iOS App (Motivations Coach, Pet Project) (L5+)
 Role: iOS Developer.
 
 Tech Stack:
