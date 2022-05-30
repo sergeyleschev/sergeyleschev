@@ -57,18 +57,6 @@ Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD
 
 <div style="page-break-after: always;"></div>
 
-## Project Guidelines (L5+)
-A set of best practices in my projects.
-- [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
-- [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
-- [X] [Environments](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#environments)
-- [X] [Dependencies](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#dependencies)
-- [X] [Tesing](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#testing)
-- [X] [Structure and Naming](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#structure-and-naming)
-- [X] [Code Style](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#code-style)
-- [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
-- [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
-
 ## Design Patterns (L5+)
 
 | [Behavioral](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#behavioral)                              | [Creational](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#creational)                | [Structural](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#structural)                |
@@ -85,6 +73,17 @@ A set of best practices in my projects.
 | [🏃 Visitor](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-visitor)                                 |                                          |                                          |
 | [📝 Template Method](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-template-method)                 |                                          |                                          |
 
+## Project Guidelines (L5+)
+A set of best practices in my projects.
+- [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
+- [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
+- [X] [Environments](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#environments)
+- [X] [Dependencies](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#dependencies)
+- [X] [Tesing](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#testing)
+- [X] [Structure and Naming](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#structure-and-naming)
+- [X] [Code Style](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#code-style)
+- [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
+- [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
 
 <br />
 
