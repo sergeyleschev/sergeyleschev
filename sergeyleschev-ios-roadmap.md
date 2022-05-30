@@ -99,20 +99,20 @@ Tapping on a link will take you to relevant certificates.
 - [X] `Software Architecture`
     - [X] `Design Patterns`
         - [X] [`Cocoa`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Cocoa/RESOURCES.md)
-            - [X] Abstract Factory
+            - [X] [Abstract Factory](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-abstract-factory)
                 - [X] [Class cluster](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
-            - [X] Adapter
-            - [X] Command Pattern
-            - [X] Chain of Responsibility
-            - [X] Decorator
+            - [X] [Adapter](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-adapter)
+            - [X] [Command Pattern](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-command)
+            - [X] [Chain of Responsibility](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-chain-of-responsibility)
+            - [X] [Decorator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-decorator)
                 - [X] Delegation
                 - [X] Categories
-            - [X] Facade
-            - [X] Memento
-            - [X] Observer
+            - [X] [Facade](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-facade)
+            - [X] [Memento](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-memento)
+            - [X] [Observer](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-observer)
             - [X] Proxy
             - [X] Receptionist
-            - [X] Singleton
+            - [X] [Singleton](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-singleton)
             - [X] Template Method
             - [X] MVC
         - [X] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
@@ -254,7 +254,7 @@ Tapping on a link will take you to relevant certificates.
 | [👫 Command](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-command)                                 | [👷 Builder](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-builder)                   | [🌉 Bridge](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-bridge)                     |
 | [🎶 Interpreter](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-interpreter)                         | [🏭 Factory Method](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-factory-method)     | [🌿 Composite](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-composite)               |
 | [🍫 Iterator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-iterator)                               | [🔂 Monostate](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-monostate)               | [🍧 Decorator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-decorator)               |
-| [💐 Mediator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-mediator)                               | [🃏 Prototype](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-prototype)               | [🎁 Façade](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-fa-ade)                     |
+| [💐 Mediator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-mediator)                               | [🃏 Prototype](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-prototype)               | [🎁 Facade](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-facade)                     |
 | [💾 Memento](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-memento)                                 | [💍 Singleton](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-singleton)               | [🍃 Flyweight](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-flyweight)               |
 | [👓 Observer](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-observer)                               |                                          | [☔ Protection Proxy](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-protection-proxy) |
 | [🐉 State](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-state)                                     |                                          | [🍬 Virtual Proxy](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-virtual-proxy)       |
