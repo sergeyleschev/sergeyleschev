@@ -69,6 +69,23 @@ A set of best practices in my projects.
 - [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
 - [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
 
+## Design Patterns (L5+)
+
+| [Behavioral](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#behavioral)                              | [Creational](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#creational)                | [Structural](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#structural)                |
+| ------------------------------------------------------ | ---------------------------------------- | ---------------------------------------- |
+| [🐝 Chain Of Responsibility](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-chain-of-responsibility) | [🌰 Abstract Factory](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-abstract-factory) | [🔌 Adapter](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-adapter)                   |
+| [👫 Command](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-command)                                 | [👷 Builder](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-builder)                   | [🌉 Bridge](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-bridge)                     |
+| [🎶 Interpreter](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-interpreter)                         | [🏭 Factory Method](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-factory-method)     | [🌿 Composite](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-composite)               |
+| [🍫 Iterator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-iterator)                               | [🔂 Monostate](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-monostate)               | [🍧 Decorator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-decorator)               |
+| [💐 Mediator](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-mediator)                               | [🃏 Prototype](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-prototype)               | [🎁 Façade](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-fa-ade)                     |
+| [💾 Memento](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-memento)                                 | [💍 Singleton](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-singleton)               | [🍃 Flyweight](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-flyweight)               |
+| [👓 Observer](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-observer)                               |                                          | [☔ Protection Proxy](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-protection-proxy) |
+| [🐉 State](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-state)                                     |                                          | [🍬 Virtual Proxy](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-virtual-proxy)       |
+| [💡 Strategy](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-strategy)                               |                                          |                                          |
+| [🏃 Visitor](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-visitor)                                 |                                          |                                          |
+| [📝 Template Method](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-template-method)                 |                                          |                                          |
+
+
 <br />
 
 ## 🏫 Education
