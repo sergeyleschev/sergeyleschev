@@ -346,7 +346,7 @@ Tapping on a link will take you to relevant certificates.
 | [📝 Template Method](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-template-method)                 |                                          |                                          |
 
 
-## Project Guidelines
+## Project Guidelines (L5+)
 A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
 - [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
