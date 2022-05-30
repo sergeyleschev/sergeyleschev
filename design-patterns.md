@@ -11,7 +11,7 @@ Design Patterns (Swift 5+)
 | [👫 Command](#-command)                                 | [👷 Builder](#-builder)                   | [🌉 Bridge](#-bridge)                     |
 | [🎶 Interpreter](#-interpreter)                         | [🏭 Factory Method](#-factory-method)     | [🌿 Composite](#-composite)               |
 | [🍫 Iterator](#-iterator)                               | [🔂 Monostate](#-monostate)               | [🍧 Decorator](#-decorator)               |
-| [💐 Mediator](#-mediator)                               | [🃏 Prototype](#-prototype)               | [🎁 Façade](#-fa-ade)                     |
+| [💐 Mediator](#-mediator)                               | [🃏 Prototype](#-prototype)               | [🎁 Facade](#-facade)                     |
 | [💾 Memento](#-memento)                                 | [💍 Singleton](#-singleton)               | [🍃 Flyweight](#-flyweight)               |
 | [👓 Observer](#-observer)                               |                                          | [☔ Protection Proxy](#-protection-proxy) |
 | [🐉 State](#-state)                                     |                                          | [🍬 Virtual Proxy](#-virtual-proxy)       |
@@ -1344,7 +1344,7 @@ someCoffee = WhipCoffee(beverage: someCoffee)
 print("Cost: \(someCoffee.cost); Ingredients: \(someCoffee.ingredients)")
 ```
 
-🎁 Façade
+🎁 Facade
 ---------
 
 The facade pattern is used to define a simplified interface to a more complex subsystem.
