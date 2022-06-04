@@ -15,9 +15,9 @@
 **Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
 
 ## 🚀 Developer Roadmap
-- S.Leschev iOS Developer (L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
-- S.Leschev FullStack Developer (L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
-- S.Leschev System Architect (L7+) [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
+- S.Leschev iOS Developer (Google Engineering Level: L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
+- S.Leschev FullStack Developer (Google Engineering Level: L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
+- S.Leschev System Architect (Google Engineering Level: L7+) [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
 
 <br />
 
