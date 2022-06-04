@@ -1,4 +1,4 @@
-# S.Leschev FullStack Developer Roadmap (L5+)
+# S.Leschev FullStack Developer Roadmap (L6+)
 
 ## 🏆 Awards
 ### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
@@ -329,7 +329,7 @@ Tapping on a link will take you to relevant certificates.
 
 <div style="page-break-after: always;"></div>
 
-## Design Patterns (L5+)
+## Design Patterns (L6+)
 
 | [Behavioral](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#behavioral)                              | [Creational](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#creational)                | [Structural](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#structural)                |
 | ------------------------------------------------------ | ---------------------------------------- | ---------------------------------------- |
@@ -346,7 +346,7 @@ Tapping on a link will take you to relevant certificates.
 | [📝 Template Method](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md#-template-method)                 |                                          |                                          |
 
 
-## Project Guidelines (L5+)
+## Project Guidelines (L6+)
 A set of best practices in my projects.
 - [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
 - [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
