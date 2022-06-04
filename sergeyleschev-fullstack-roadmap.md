@@ -366,6 +366,21 @@ A set of best practices in my projects.
 - LinkedIn Skill Asessment (Databases): [MongoDB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MongoDB/report/), [NoSQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/NoSQL/report/), [Transact-SQL (T-SQL)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Transact-SQL%20(T-SQL)/report/), [MySQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MySQL/report/).
 - LinkedIn Skill Asessment (Infra/DevOps): [Bash](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Bash/report/), [Git](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Git/report/), [Amazon Web Services (AWS)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Amazon%20Web%20Services%20(AWS)/report/), [AWS Lambda](https://www.linkedin.com/in/sergeyleschev/detail/assessments/AWS%20Lambda/report/), [Google Cloud Platform (GCP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Cloud%20Platform%20(GCP)/report/), [Microsoft Azure](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Microsoft%20Azure/report/), [Hadoop](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Hadoop/report/), [IT Operations](https://www.linkedin.com/in/sergeyleschev/detail/assessments/IT%20Operations/report/).
 
+## Latest Projects
+
+### [Web] Health & Fitness Web App  (L6+)
+Role: Tech Lead. Development architecture and new features.
+
+Tech Stack:
+- React 18+: Hooks. Redux. Redux Toolkit.
+- UI Framework: PrimeReact.
+- NodeJS: NestJS, TypeORM.
+- PostgreSQL. ORM.
+- MongoDB. Aggregations.
+- Docker.
+- CI/CD (DO, AWS, Github Actions).
+- gRPC, WebSockets.
+
 <div style="page-break-after: always;"></div>
 
 ## Contacts
