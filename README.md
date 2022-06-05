@@ -17,6 +17,7 @@
 ## 🚀 Developer Roadmap
 - S.Leschev iOS Developer (Google Engineering Level: L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-ios-roadmap.md).
 - S.Leschev FullStack Developer (Google Engineering Level: L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-roadmap.md).
+- S.Leschev Design Patterns (Google Engineering Level: L6+) [Roadmap](https://github.com/sergeyleschev/sergeyleschev/blob/main/design-patterns.md).
 - S.Leschev System Architect (Google Engineering Level: L7+) [Roadmap](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md).
 
 <br />
