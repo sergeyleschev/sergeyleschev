@@ -1,4 +1,4 @@
-# S.Leschev iOS Design Patterns (Swift 5+)
+# S.Leschev Design Patterns (Swift 5+)
 Google Engineering Level: L6+
 
 ## 🏆 Awards
