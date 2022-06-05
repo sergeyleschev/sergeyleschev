@@ -1,7 +1,33 @@
+# S.Leschev iOS Design Patterns (Swift 5+)
+Google Engineering Level: L6+
 
+## 🏆 Awards
+### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
+<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" width="410"/></a>
 
-Design Patterns (Swift 5+)
-========================================
+<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" width="280"/></a>
+
+**Languages**: Swift, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
+
+**Algorithms**: linked lists, binary search, hash table, queue/stack, dfs/bfs, sort, heap/hash, two pointers, sliding window, tree, greedy problems etc.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+### Golden Award Muad'Dib's Challenge
+
+<a href="https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/codility-ranking-muaddibs.png?raw=true" width="410"/></a>
+
+**Languages**: Swift.
+
+**Algorithmic skills**: Dynamic programming, Greedy algorithms, Binary search, Stack and Queues, Sorting, Time Complexity.
+
+**Contest**: Algorithms, Data Structures.
+
+---
+
+<div style="page-break-after: always;"></div>
 
 ## Table of Contents
 
@@ -1534,3 +1560,108 @@ final class HEVSuitHumanInterface: HEVSuitMedicalAid {
 let humanInterface = HEVSuitHumanInterface()
 humanInterface.administerMorphine()
 ```
+
+## Project Guidelines (L6+)
+A set of best practices in my projects.
+- [X] [Git](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#git)
+- [X] [Documentation](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#documentation)
+- [X] [Environments](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#environments)
+- [X] [Code Style](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#code-style)
+- [X] [Logging](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#logging)
+- [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
+
+## Licenses & certifications
+- 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
+- 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
+- LinkedIn Skill Asessment (Mobile): [Swift (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Swift/report/), [Object-Oriented Programming (OOP)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Object-Oriented%20Programming%20(OOP)/report/), [Objective-C](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Objective-C/report/), [C++](https://www.linkedin.com/in/sergeyleschev/detail/assessments/C++/report/), [Ionic](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Angular/report/), [JSON](https://www.linkedin.com/in/sergeyleschev/detail/assessments/JSON/report/), [XML](https://www.linkedin.com/in/sergeyleschev/detail/assessments/XML/report/), [Android](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Android/report/), [Kotlin](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Kotlin/report/), [Maven](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Maven/report/), [Java](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Java/report/), [REST APIs](https://www.linkedin.com/in/sergeyleschev/detail/assessments/REST%20APIs/report/).
+-  Health & Fitness iOS App / [Fitness Motivation](https://github.com/sergeyleschev/motivation) / AppStore (Sources: [SwiftUI](https://github.com/sergeyleschev/motivation)) @ S. Leschev.
+-  Utility MacOS App / Calc-It / Core (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
+
+<div style="page-break-after: always;"></div>
+
+## Latest Projects
+
+### [ iOS] Live Stream & Video Chat is the best streaming and video chatting tool. (L6+)
+Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
+
+Tech Stack:
+- Swift 5+.
+- VIPER (Dependency Injection, Assembly, Services, Interactor, Presenter, State, Adapter) + MVVM (Combine, PromiseKit).
+- Alomofire, Decodable, Combine.
+- GCD/Operations.
+- Agora Video SDK, Chat SDK, Beautification SDK. WebRTC. GRPC.
+- Modular architecture (Frameworks, Development Pods).
+- SwiftGen (Localization, Image, Colors).
+- SwiftLint.
+- Auth: Facebook, Google, Apple ID.
+- Firebase, Crashlytics, Amplitude, AppsFlyer.
+- Push-notifications (Firebase).
+- UIKit, Autolayout, Core Animations, Skeleton, Lottie.
+- Git (Flow, CodeReview), Figma.
+
+<div style="page-break-after: always;"></div>
+
+### [ iOS] Health & Fitness iOS App  (L6+)
+Role: Senior iOS Developer, Tech Lead. Development architecture and new features.
+
+Tech Stack:
+- Swift 5+.
+- Clean Swift Architecture.
+- Alamofire, ObjectMapper.
+- GCD/Operations.
+- AVFoundation, Streaming: HLS (Cloudflare/nginx).
+- AirPlay [Composition (video+audio), Secondary Display].
+- Realm.
+- Modular architecture (Frameworks, Development Pods).
+- SwiftGen (Localization, Image, Colors).
+- SwiftLint.
+- Auth: Facebook, Google, Apple ID, Fitbit.
+- Amplitude, Crashlytics, AppsFlyer (+OneLink).
+- Analytics: Facebook (SKAd + Conversions API).
+- Push-notifications (OneSignal).
+- UIKit, Autolayout, Core Animations, Lottie.
+- Git (Flow, CodeReview), Zeplin, Figma, Sketch.
+
+<div style="page-break-after: always;"></div>
+
+### [ iOS] Health & Fitness iOS App (Motivations Coach, Pet Project) (L6+)
+Role: iOS Developer.
+
+Tech Stack:
+- SwiftUI.
+- Watch Extension (WatchOS).
+- AppClip Extension.
+- Widget (iOS 14).
+- ObjectMapper.
+- URLSession.
+- Keychain.
+- Lottie.
+- Push Notifications.
+- GCD/Operations.
+- Git, Figma, Sketch.
+
+Website: [motivations.coach](https://sergeyleschev.github.io/motivations.coach/)
+
+Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation)
+
+<div style="page-break-after: always;"></div>
+
+## Contacts
+
+I have a clear focus on time-to-market and don't prioritize technical debt.
+ 
+🛩️ #startups #management #cto #swift #typescript #database
+
+📧 Email: [sergey.leschev@gmail.com](mailto:sergey.leschev@gmail.com)
+
+👋 LinkedIn: [https://linkedin.com/in/sergeyleschev](https://www.linkedin.com/in/sergeyleschev/)
+
+👋 Twitter: [https://twitter.com/sergeyleschev](https://twitter.com/sergeyleschev)
+
+👋 Github: [https://github.com/sergeyleschev](https://github.com/sergeyleschev)
+
+🌎 Website: [https://sergeyleschev.github.io](https://sergeyleschev.github.io)
+
+🖨️ PDF: [Download](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.pdf)
+
+ALT: SIARHEI LIASHCHOU
