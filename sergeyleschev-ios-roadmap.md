@@ -172,7 +172,7 @@ Tapping on a link will take you to relevant certificates.
         - [X] Checklists
 - [X] UX
 - [X] `Caching and Persistency`
-    - [X] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md)
+    - [X] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md) (+Faulting)
     - [X] [Realm](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Realm/RESOURCES.md)
 - [X] `Testing`
     - [X] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
