@@ -368,8 +368,10 @@ A set of best practices in my projects.
 
 ## Latest Projects
 
-### [Web] Health & Fitness Web App  (L6+)
-Role: Tech Lead. Development architecture and new features.
+### [Web] Health & Fitness Web App
+Role: Tech Lead (L6+).
+
+Description (tasks): Development architecture and new features.
 
 Tech Stack:
 - React 18+: Hooks. Redux. Redux Toolkit.
