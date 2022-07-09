@@ -361,6 +361,20 @@ A set of best practices in my projects.
 ## Licenses & certifications
 - 🏆 LeetCode Global TOP 300 (TypeScript: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (TypeScript: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Codility](https://github.com/sergeyleschev/codility-swift)).
+- LeetCode: June LeetCode Challenge ([2022-06-30](https://leetcode.com/sergeyleschev))
+- LeetCode: May LeetCode Challenge ([2022-05-31](https://leetcode.com/sergeyleschev))
+- LeetCode: Apr LeetCode Challenge ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Dynamic Programming ([2022-05-07](https://leetcode.com/sergeyleschev))
+- LeetCode: Algorithm II ([2022-05-21](https://leetcode.com/sergeyleschev))
+- LeetCode: Algorithm I ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Data Structure II ([2022-05-21](https://leetcode.com/sergeyleschev))
+- LeetCode: Data Structure ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Graph Theory ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Binary Search II ([2022-05-18](https://leetcode.com/sergeyleschev))
+- LeetCode: Binary Search ([2022-04-28](https://leetcode.com/sergeyleschev))
+- LeetCode: Programming Skills II ([2022-05-18](https://leetcode.com/sergeyleschev))
+- LeetCode: Programming Skills ([2022-04-28](https://leetcode.com/sergeyleschev))
+- LeetCode: SQL I ([2022-04-26](https://leetcode.com/sergeyleschev))
 - LinkedIn Skill Asessment (Front-End): [Front-end Development](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Front-end%20Development/report/), [Angular](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Angular/report/), [React](https://www.linkedin.com/in/sergeyleschev/detail/assessments/React/report/), [Javascript](https://www.linkedin.com/in/sergeyleschev/detail/assessments/JavaScript/report/), [HTML](https://www.linkedin.com/in/sergeyleschev/detail/assessments/HTML/report/), [CSS](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Cascading%20Style%20Sheets%20(CSS)/report/), [jQuery](https://www.linkedin.com/in/sergeyleschev/detail/assessments/jQuery/report/).
 - LinkedIn Skill Asessment (Back-End): [Node.js](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Node.js/report/), [Java](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Java/report/), [Spring Framework](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Spring%20Framework/report/), [Scala](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Scala/report/), [C#](https://www.linkedin.com/in/sergeyleschev/detail/assessments/C%23/report/), [.NET Framework](https://www.linkedin.com/in/sergeyleschev/detail/assessments/.NET%20Framework/report/), [Unity](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Unity/report/), [Python (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Python%20(Programming%20Language)/report/), [Django](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Django/report/), [PHP](https://www.linkedin.com/in/sergeyleschev/detail/assessments/PHP/report/), [C (Programming Language)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/C%20(Programming%20Language)/report/).
 - LinkedIn Skill Asessment (Databases): [MongoDB](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MongoDB/report/), [NoSQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/NoSQL/report/), [Transact-SQL (T-SQL)](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Transact-SQL%20(T-SQL)/report/), [MySQL](https://www.linkedin.com/in/sergeyleschev/detail/assessments/MySQL/report/).
