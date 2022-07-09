@@ -118,9 +118,9 @@ Computer science / Mathematician-system programmer.
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
-- June LeetCode Challenge ([2022-06-30](https://leetcode.com/sergeyleschev))
-- May LeetCode Challenge ([2022-05-31](https://leetcode.com/sergeyleschev))
-- Apr LeetCode Challenge ([2022-04-30](https://leetcode.com/sergeyleschev))
+- 2022 June LeetCode Challenge ([2022-06-30](https://leetcode.com/sergeyleschev))
+- 2022 May LeetCode Challenge ([2022-05-31](https://leetcode.com/sergeyleschev))
+- 2022 Apr LeetCode Challenge ([2022-04-30](https://leetcode.com/sergeyleschev))
 - Dynamic Programming ([2022-05-07](https://leetcode.com/sergeyleschev))
 - Algorithm II ([2022-05-21](https://leetcode.com/sergeyleschev))
 - Algorithm I ([2022-04-30](https://leetcode.com/sergeyleschev))
