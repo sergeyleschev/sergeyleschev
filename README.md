@@ -117,6 +117,20 @@ Computer science / Mathematician-system programmer.
 - 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (Swift: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
+- LeetCode: June LeetCode Challenge ([2022-06-30](https://leetcode.com/sergeyleschev))
+- LeetCode: May LeetCode Challenge ([2022-05-31](https://leetcode.com/sergeyleschev))
+- LeetCode: Apr LeetCode Challenge ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Dynamic Programming ([2022-05-07](https://leetcode.com/sergeyleschev))
+- LeetCode: Algorithm II ([2022-05-21](https://leetcode.com/sergeyleschev))
+- LeetCode: Algorithm I ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Data Structure II ([2022-05-21](https://leetcode.com/sergeyleschev))
+- LeetCode: Data Structure ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Graph Theory ([2022-04-30](https://leetcode.com/sergeyleschev))
+- LeetCode: Binary Search II ([2022-05-18](https://leetcode.com/sergeyleschev))
+- LeetCode: Binary Search ([2022-04-28](https://leetcode.com/sergeyleschev))
+- LeetCode: Programming Skills II ([2022-05-18](https://leetcode.com/sergeyleschev))
+- LeetCode: Programming Skills ([2022-04-28](https://leetcode.com/sergeyleschev))
+- LeetCode: SQL I ([2022-04-26](https://leetcode.com/sergeyleschev))
 -  Health & Fitness iOS App / [Fitness Motivation](https://github.com/sergeyleschev/motivation) / AppStore (Website: [motivations.coach](https://sergeyleschev.github.io/motivations.coach/), Sources: [SwiftUI](https://github.com/sergeyleschev/motivation)) @ S. Leschev.
 -  Utility MacOS App / Calc-It / Core / AppStore (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
 - Facebook Blueprint, Snap Inc, Bytedance, AppsFlyer (Marketing SDK), Google Analytics ([SDK](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/), GA4, UA).
