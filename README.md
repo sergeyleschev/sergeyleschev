@@ -121,13 +121,13 @@ Computer science / Mathematician-system programmer.
 - 2022 June LeetCode Challenge ([2022-06-30](https://leetcode.com/sergeyleschev)).
 - 2022 May LeetCode Challenge ([2022-05-31](https://leetcode.com/sergeyleschev)).
 - 2022 Apr LeetCode Challenge ([2022-04-30](https://leetcode.com/sergeyleschev)).
-- Dynamic Programming ([2022-05-07](https://leetcode.com/sergeyleschev)).
+- LeetCode Dynamic Programming ([2022-05-07](https://leetcode.com/sergeyleschev)).
 - Graph Theory ([2022-04-30](https://leetcode.com/sergeyleschev)).
 - SQL ([2022-04-26](https://leetcode.com/sergeyleschev)).
 - Algorithm I ([2022-04-30](https://leetcode.com/sergeyleschev)), Algorithm II ([2022-05-21](https://leetcode.com/sergeyleschev)).
 - Data Structure I ([2022-04-30](https://leetcode.com/sergeyleschev)), Data Structure II ([2022-05-21](https://leetcode.com/sergeyleschev)).
 - Binary Search I ([2022-04-28](https://leetcode.com/sergeyleschev)), Binary Search II ([2022-05-18](https://leetcode.com/sergeyleschev)).
-- Programming Skills ([2022-04-28](https://leetcode.com/sergeyleschev)), Programming Skills II ([2022-05-18](https://leetcode.com/sergeyleschev)).
+- Programming Skills I ([2022-04-28](https://leetcode.com/sergeyleschev)), Programming Skills II ([2022-05-18](https://leetcode.com/sergeyleschev)).
 -  Health & Fitness iOS App / [Fitness Motivation](https://github.com/sergeyleschev/motivation) / AppStore (Website: [motivations.coach](https://sergeyleschev.github.io/motivations.coach/), Sources: [SwiftUI](https://github.com/sergeyleschev/motivation)) @ S. Leschev.
 -  Utility MacOS App / Calc-It / Core / AppStore (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
 - Facebook Blueprint, Snap Inc, Bytedance, AppsFlyer (Marketing SDK), Google Analytics ([SDK](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/), GA4, UA).
