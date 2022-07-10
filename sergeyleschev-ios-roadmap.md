@@ -1,5 +1,6 @@
 # S.Leschev iOS Developer Roadmap
 <img itemprop="image" alt="Sergey Leschev" src="https://sergeyleschev.github.io/sergeyleschev.png" width=250/>
+
 Google Engineering Level: L6+
 
 ## 🏆 Awards
