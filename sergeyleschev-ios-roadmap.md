@@ -370,6 +370,18 @@ Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation)
 
 <div style="page-break-after: always;"></div>
 
+## Favorite Book
+
+My Favorite Book is Dale Carnegie "How to Win Friends & Influence People".
+
+The principles of which I use in my life:
+1. Become genuinely interested in other people. 
+2. Smile.
+3. Remember that a person's name is to that person the sweetest and most important sound in any language.
+4. Be a good listener.
+5. Talk in terms of the other person's interests.
+6. Make the other person feel important - and do it sincerely.
+
 ## Contacts
 
 I have a clear focus on time-to-market and don't prioritize technical debt.
