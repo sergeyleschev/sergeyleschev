@@ -382,6 +382,8 @@ The principles of which I use in my life:
 5. Talk in terms of the other person's interests.
 6. Make the other person feel important - and do it sincerely.
 
+<div style="page-break-after: always;"></div>
+
 ## Contacts
 
 I have a clear focus on time-to-market and don't prioritize technical debt.
