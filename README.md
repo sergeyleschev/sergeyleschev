@@ -157,6 +157,8 @@ Computer science / Mathematician-system programmer.
 
 **Languages**: Swift.
 
+<br />
+
 <div style="page-break-after: always;"></div>
 
 ## Favorite Book
@@ -170,6 +172,8 @@ The principles of which I use in my life:
 4. Be a good listener.
 5. Talk in terms of the other person's interests.
 6. Make the other person feel important - and do it sincerely.
+
+<br />
 
 <div style="page-break-after: always;"></div>
 
