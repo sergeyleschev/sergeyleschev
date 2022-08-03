@@ -4,7 +4,7 @@
 Google Engineering Level: L6+
 
 ## 🏆 Awards
-### Ranking #Dev: Global TOP 300 ([Certificate](https://leetcode.com/sergeyleschev/))
+### Ranking #Dev: Global TOP 200 ([Certificate](https://leetcode.com/sergeyleschev/))
 <a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" width="410"/></a>
 
 <a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" width="280"/></a>
@@ -279,7 +279,7 @@ A set of best practices in my projects.
 - [X] [API](https://github.com/sergeyleschev/sergeyleschev/blob/main/sergeyleschev-fullstack-project-guidelines.md#api)
 
 ## Licenses & certifications
-- 🏆 LeetCode Global TOP 300 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
+- 🏆 LeetCode Global TOP 200 (Swift: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [Swift](https://github.com/sergeyleschev/leetcode-swift)).
 - 🏆 Golden Award Muad'Dib's Challenge (Swift: [Certificate](https://app.codility.com/cert/view/cert5YT6JA-Y9ZKFEFXEZWGTR3G/), Sources: [Swift](https://github.com/sergeyleschev/codility-swift)).
 - 2022 June LeetCode Challenge ([2022-06-30](https://leetcode.com/sergeyleschev)).
 - 2022 May LeetCode Challenge ([2022-05-31](https://leetcode.com/sergeyleschev)).
