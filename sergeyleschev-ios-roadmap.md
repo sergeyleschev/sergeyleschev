@@ -267,7 +267,7 @@ Tapping on a link will take you to relevant certificates.
 
 ## Frameworks
 
-Alamofire, Combine, CoreAnimation, GoogleMaps, Moya, Pushy, ReactiveSwift, RxSwift, SnapKit, StoreKit, Сoordinators, SwiftUI, SwiftLint, SwiftCentrifuge, Swift Package Manager, AppsFlyer, ApplePay, AdSupport, Autolayout, CGD, Clean, Clean Code, CocoaPods, CoreData, CoreLocation, Crashlytics, DRY, Fabric, Firebase, Firebase Analytics, Firebase Remote Config, Foundation, graphql, gRPC, iOS Human Interface Guidelines, JSON, jwt, KISS, MessageUI, Monorepo, MVC, MVP, MVVM, NSOperation, oauth, OpenAPI, Swagger, Storyboard, sqlite, SOLID, Socket.IO, SOAP, RIBs, REST, rest, Realm, TestFlight, UI Testing, UIKit, unit, URLSession, Viper, WebKit, XCTest, XML.
+Alamofire, Combine, CoreAnimation, GoogleMaps, Moya, Pushy, ReactiveSwift, RxSwift, SnapKit, StoreKit, Сoordinators, SwiftUI, SwiftLint, SwiftCentrifuge, Swift Package Manager, AppsFlyer, ApplePay, AdSupport, Autolayout, CGD, Clean, Clean Code, CocoaPods, CoreData, CoreLocation, Crashlytics, DRY, Fabric, Firebase, Firebase Analytics, Firebase Remote Config, Foundation, graphql, gRPC, iOS Human Interface Guidelines, JSON, jwt, KISS, MessageUI, Monorepo, MVC, MVP, MVVM, NSOperation, oauth, OpenAPI, Swagger, Storyboard, sqlite, SOLID, Socket.IO, SOAP, RIBs, REST, Vapor [API;Fluent;Migrations], SwiftNIO, REST, Realm, TestFlight, UI Testing, UIKit, unit, URLSession, Viper, WebKit, XCTest, XML.
 
 ## Project Guidelines (L6+)
 A set of best practices in my projects.
