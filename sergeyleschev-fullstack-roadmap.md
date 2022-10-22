@@ -393,8 +393,10 @@ Tech Stack:
 - UI Framework: PrimeReact.
 - NodeJS: NestJS, TypeORM.
 - PostgreSQL. ORM.
+- Redis. Memcached.
 - MongoDB. Aggregations.
 - Docker.
+- Kubernetes.
 - CI/CD (DO, AWS, Github Actions).
 - gRPC, WebSockets.
 
