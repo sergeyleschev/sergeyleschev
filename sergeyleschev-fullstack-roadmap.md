@@ -363,7 +363,7 @@ A set of best practices in my projects.
 ## Licenses & certifications
 - 🏆 LeetCode Global TOP 200 (TypeScript: [Certificate](https://leetcode.com/sergeyleschev/), Sources: [TypeScript](https://github.com/sergeyleschev/leetcode-typescript)).
 - 🏆 Golden Award for the Year of the Tiger Challenge (TypeScript: [Certificate](https://app.codility.com/cert/view/certQBA3EW-QESXM38DNR3SXMYZ/), Sources: [Codility](https://github.com/sergeyleschev/codility-swift)).
-- 2022 Sep LeetCode Challenge ([2022-10-31](https://leetcode.com/sergeyleschev)).
+- 2022 Oct LeetCode Challenge ([2022-10-31](https://leetcode.com/sergeyleschev)).
 - 2022 Sep LeetCode Challenge ([2022-09-30](https://leetcode.com/sergeyleschev)).
 - 2022 Aug LeetCode Challenge ([2022-08-31](https://leetcode.com/sergeyleschev)).
 - 2022 July LeetCode Challenge ([2022-07-31](https://leetcode.com/sergeyleschev)).
