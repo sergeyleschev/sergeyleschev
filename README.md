@@ -197,7 +197,7 @@ I have a clear focus on time-to-market and don't prioritize technical debt.
 
 🌎 Website: [https://sergeyleschev.github.io](https://sergeyleschev.github.io)
 
-🌎 Dev Blog: [https://dev.to/sergeyleschev](https://dev.to/sergeyleschev)
+🌎 DEV Community: [https://dev.to/sergeyleschev](https://dev.to/sergeyleschev)
 
 🖨️ PDF: [Download](https://sergeyleschev.github.io/sergeyleschev-readme.pdf)
 
