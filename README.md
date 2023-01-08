@@ -184,6 +184,7 @@ The principles of which I use in my life:
 ## Contacts
 
 I have a clear focus on time-to-market and don't prioritize technical debt.
+I took part in the Pre-Sale as a System Architect/TechStack: Mobile (iOS-Swift, Android-Kotlin, Web-React-TypeScript, Backend-NodeJS-.NET-Kafka-SQL-NoSQL). And I also formed the work of Pre-Sale as a CTO.
  
 🛩️ #startups #management #cto #swift #typescript #database
 
