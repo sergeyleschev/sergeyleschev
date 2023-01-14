@@ -352,7 +352,6 @@ Tech Stack:
 <div style="page-break-after: always;"></div>
 
 ### [ iOS] Social Network App in SwiftUI with MVVM.
-Firebase for Login/Register.
 
 - Using Firebase 
   - Login with email
@@ -376,6 +375,7 @@ Tech Stack:
 - SwiftUI.
 - Custom UI components.
 - URLSession.
+- Firebase for Login/Register.
 - Push Notifications.
 - GCD/Operations.
 - Git, Figma, Sketch.
