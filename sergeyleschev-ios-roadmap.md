@@ -352,6 +352,23 @@ Tech Stack:
 <div style="page-break-after: always;"></div>
 
 ### [ iOS] Social Network iOS App
+Social Network in SwiftUI with MVVM, 
+Firebase for Login/Register and other database.
+
+- Using Firebase 
+  - Login with email
+  - Register with email
+- Firestore
+  - Save all details of register user
+  - Upload profile picture
+- Post like
+- Publish the post
+- Fetch Profile detail
+- Fetch all posts
+- Fetch likes posts
+- Fetch all register users
+- Logout
+
 Role: iOS Developer (L6+).
 
 Description (tasks): Development architecture and new features.
