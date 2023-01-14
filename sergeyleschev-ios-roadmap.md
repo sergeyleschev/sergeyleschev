@@ -350,7 +350,24 @@ Tech Stack:
 
 <div style="page-break-after: always;"></div>
 
-### [ iOS] Health & Fitness iOS App (Motivations Coach, Pet Project)
+### [ iOS] Social Network iOS App
+Role: iOS Developer (L6+).
+
+Description (tasks): Development architecture and new features.
+
+Tech Stack:
+- SwiftUI.
+- Custom UI components.
+- URLSession.
+- Push Notifications.
+- GCD/Operations.
+- Git, Figma, Sketch.
+
+Sources: [SwiftUI](https://github.com/sergeyleschev/social-network)
+
+<div style="page-break-after: always;"></div>
+
+### [ iOS] Health & Fitness iOS App (Motivations Coach)
 Role: iOS Developer (L6+).
 
 Description (tasks): Development architecture and new features.
