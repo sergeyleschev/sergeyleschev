@@ -312,7 +312,7 @@ Description (tasks): Development architecture and new features.
 Tech Stack:
 - Swift 5+.
 - VIPER (Dependency Injection, Assembly, Services, Interactor, Presenter, State, Adapter) + MVVM (Combine, PromiseKit).
-- Alomofire, Decodable, Combine.
+- Alamofire, Decodable, Combine.
 - GCD/Operations.
 - Agora Video SDK, Chat SDK, Beautification SDK. WebRTC. GRPC.
 - Modular architecture (Frameworks, Development Pods).
