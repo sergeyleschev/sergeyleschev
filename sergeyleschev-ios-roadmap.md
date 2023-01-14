@@ -304,7 +304,7 @@ A set of best practices in my projects.
 
 ## Latest Projects
 
-### [ iOS] Live Stream & Video Chat is the best streaming and video chatting tool.
+### [ iOS] Live Streaming App in UIKit with VIPER.
 Role: Senior iOS Developer, Tech Lead (L6+).
 
 Description (tasks): Development architecture and new features.
@@ -326,7 +326,7 @@ Tech Stack:
 
 <div style="page-break-after: always;"></div>
 
-### [ iOS] Health & Fitness iOS App
+### [ iOS] Fitness iOS App in UIKit with Clean Swift.
 Role: Senior iOS Developer, Tech Lead (L6+). 
 
 Description (tasks): Development architecture and new features.
@@ -351,9 +351,8 @@ Tech Stack:
 
 <div style="page-break-after: always;"></div>
 
-### [ iOS] Social Network iOS App
-Social Network in SwiftUI with MVVM, 
-Firebase for Login/Register and other database.
+### [ iOS] Social Network App in SwiftUI with MVVM.
+Firebase for Login/Register.
 
 - Using Firebase 
   - Login with email
@@ -385,7 +384,7 @@ Sources: [SwiftUI](https://github.com/sergeyleschev/social-network)
 
 <div style="page-break-after: always;"></div>
 
-### [ iOS] Health & Fitness iOS App (Motivations Coach)
+### [ iOS] Fitness Motivation Coach App in SwiftUI.
 Role: iOS Developer (L6+).
 
 Description (tasks): Development architecture and new features.
