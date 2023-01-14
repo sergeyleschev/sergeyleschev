@@ -133,6 +133,7 @@ Computer science / Mathematician-system programmer.
 - Binary Search I ([2022-04-28](https://leetcode.com/sergeyleschev)), Binary Search II ([2022-05-18](https://leetcode.com/sergeyleschev)).
 - Programming Skills I ([2022-04-28](https://leetcode.com/sergeyleschev)), Programming Skills II ([2022-05-18](https://leetcode.com/sergeyleschev)).
 -  Health & Fitness iOS App / [Fitness Motivation](https://github.com/sergeyleschev/motivation) / AppStore (Website: [motivations.coach](https://sergeyleschev.github.io/motivations.coach/), Sources: [SwiftUI](https://github.com/sergeyleschev/motivation)) @ S. Leschev.
+-  Social Network iOS App / AppStore, Sources: [SwiftUI](https://github.com/sergeyleschev/social-network)) @ S. Leschev.
 -  Utility MacOS App / Calc-It / Core / AppStore (Sources: [Swift](https://github.com/sergeyleschev/calc-it)) @ S. Leschev.
 - Facebook Blueprint, Snap Inc, Bytedance, AppsFlyer (Marketing SDK), Google Analytics ([SDK](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Google%20Analytics/report/), GA4, UA).
 - Internet Initiatives Development Fund (IIDF / Economics).
