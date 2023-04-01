@@ -322,7 +322,7 @@ Tech Stack:
 - Firebase, Crashlytics, Amplitude, AppsFlyer.
 - Push-notifications (Firebase).
 - UIKit, Autolayout, Core Animations, Skeleton, Lottie.
-- Git (Flow, CodeReview), Figma.
+- Git (Flow, CodeReview), Fastlane, Figma.
 
 <div style="page-break-after: always;"></div>
 
