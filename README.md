@@ -1,4 +1,4 @@
-# Sergey Leschev, Tech Lead 
+# Sergey Leschev, Team Lead 
 [Swift (L6+)](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html) | [TypeScript (L6+)](https://sergeyleschev.github.io/sergeyleschev-fullstack-roadmap.html) | [Design Patterns (L6+)](https://sergeyleschev.github.io/sergeyleschev-design-patterns.html) | [System Architect (L7+)](https://sergeyleschev.github.io/sergeyleschev-system-architect-roadmap.html) 
 
 Google Engineering Level: L7+
