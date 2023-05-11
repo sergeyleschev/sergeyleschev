@@ -40,7 +40,7 @@ Fastlane, CI/CD tools [XCode Cloud, Github Actions/DO, [Jenkins](https://github.
 Apple StoreKit [+Retention, Sales Reports], Stripe [nest-[SDK](https://github.com/sergeyleschev/nestjs-stripe), node-[SDK](https://github.com/sergeyleschev/stripe-node), Stripe Checkout, Stripe Elements, Stripe Prebuilt Page, Stripe via iframe, Sigma SQL Financial Reports], PayPal [[SDK](https://github.com/sergeyleschev/PayPal-node-SDK)], high-risk processing providers [Solid Payments, Recurly, SolidGate, Braintree], CloudPayments, DCB (fortumo), Paymentwall, SafeChange, CCBill, Klarna, Pikassa, Paymentwall, Exactly, Realisto, Cypix, Payselection.
 
 ### DeFi
-Web 3.0: Solidity, Javascript, Hardhat, REMIX, Ethers.js, Ganache, TypeScript (react.JS, node.js).
+Web 3.0: Solidity, Javascript, Hardhat, REMIX, Ethers.js, Ganache, TypeScript (react.js, node.js).
 Solidity (Consensys, Alchemy), Metamask, SafePal, Launchpad, PancakeSwap (BNB), Uniswap (ETH), Dextools/PooCoin, Gas/gwei Optimization, Front-Runner Bots, Slippage Optimization, CEX/DEX, Binance Smart Chain (BNB), Ethereum (ETH), Polygon (Matic), Tokens List [Coinmarketcap;CoinGecko].
 
 ### Auth Providers (L6+)
