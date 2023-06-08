@@ -420,6 +420,48 @@ Sources: [SwiftUI](https://github.com/sergeyleschev/Motivation)
 
 <div style="page-break-after: always;"></div>
 
+## Apple Developer Academy
+Worldwide Developers Conference 2023 (WWDC23)
+- Swift & SwiftUI.
+- ActivityKit.
+- Spotlight apps with App Shortcuts.
+- Xcode 15.
+- StoreKit for SwiftUI.
+- Observation in SwiftUI.
+- Advanced animations in SwiftUI.
+- StoreKit 2 and StoreKit Testing in Xcode.
+- What's new in UIKit.
+- Design and build apps for watchOS 10.
+- MapKit for SwiftUI.
+- Sync to iCloud with CKSyncEngine.
+- Web apps.
+- Unleash the UIKit trait system.
+- Design widgets for the Smart Stack on Apple Watch.
+- Build programmatic UI with Xcode Previews.
+- Explore advances in declarative device management.
+- Beyond scroll views.
+- Take SwiftUI to the next dimension.
+- Push Notifications Console.
+- Calendar and EventKit.
+- App Store pricing.
+- Rediscover Safari developer features.
+- Bring widgets to life.
+- Update apps for watchOS 10.
+- What's new in CSS.
+- AppKit.
+- App Store server APIs.
+- Create animated symbols.
+- Simplify distribution in Xcode Cloud.
+- Verify app dependencies with digital signatures.
+- SwiftData.
+- Inspectors in SwiftUI: Discover the details.
+- Object Capture for iOS.
+- App Store Connect.
+- Demystify SwiftUI performance.
+- Analyze hangs with Instruments.
+
+<div style="page-break-after: always;"></div>
+
 ## Favorite Book
 
 My Favorite Book is Dale Carnegie "How to Win Friends & Influence People".
