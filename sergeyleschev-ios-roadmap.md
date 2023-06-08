@@ -430,7 +430,7 @@ Worldwide Developers Conference 2023 (WWDC23)
 - Observation in SwiftUI.
 - Advanced animations in SwiftUI.
 - StoreKit 2 and StoreKit Testing in Xcode.
-- What's new in UIKit.
+- UIKit.
 - Design and build apps for watchOS 10.
 - MapKit for SwiftUI.
 - Sync to iCloud with CKSyncEngine.
@@ -447,7 +447,7 @@ Worldwide Developers Conference 2023 (WWDC23)
 - Rediscover Safari developer features.
 - Bring widgets to life.
 - Update apps for watchOS 10.
-- What's new in CSS.
+- CSS.
 - AppKit.
 - App Store server APIs.
 - Create animated symbols.
