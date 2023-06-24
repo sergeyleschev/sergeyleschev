@@ -185,7 +185,7 @@ The principles of which I use in my life:
 
 ## Contacts
 
-I have a clear focus on time-to-market and don't prioritize technical debt. And I took part in the Pre-Sale/RFX activity as a System Architect, assessment efforts for Mobile (iOS-Swift, Android-Kotlin), Frontend (React-TypeScript) and Backend (NodeJS-.NET-PHP-Kafka-SQL-NoSQL). And I also formed the work of Pre-Sale as a CTO from Opportunity to Proposal via knowledge transfer to Successful Delivery.
+I have a clear focus on time-to-market and don't prioritize technical debt. And I took part in the Pre-Sale/RFX activity as a System Architect, assessment efforts for Mobile (iOS-Swift, Android-Kotlin), Frontend (React-TypeScript) and Backend (NodeJS-.NET-PHP-Kafka-SQL-NoSQL). Moderator of DEV Community. And I also formed the work of Pre-Sale as a CTO from Opportunity to Proposal via knowledge transfer to Successful Delivery.
 
 🛩️ #startups #management #cto #swift #typescript #database
 
@@ -199,7 +199,7 @@ I have a clear focus on time-to-market and don't prioritize technical debt. And 
 
 🌎 Website: [https://sergeyleschev.github.io](https://sergeyleschev.github.io)
 
-🌎 DEV Community: [https://dev.to/sergeyleschev](https://dev.to/sergeyleschev)
+🌎 DEV Community (moderator): [https://dev.to/sergeyleschev](https://dev.to/sergeyleschev)
 
 🌎 Reddit: [https://reddit.com/user/sergeyleschev](https://reddit.com/user/sergeyleschev)
 
