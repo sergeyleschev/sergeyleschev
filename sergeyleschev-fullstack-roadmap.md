@@ -8,9 +8,9 @@ Google Engineering Level: L6+
 
 ### Ranking #Dev: Global TOP 200 ([Certificate](https://leetcode.com/sergeyleschev/))
 
-`<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" width="410"/>``</a>`
+<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-ranking.png?raw=true" width="410"/></a>
 
-`<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" width="280"/>``</a>`
+<a href="https://leetcode.com/sergeyleschev/"><img itemprop="image" alt="Sergey Leschev" src="https://github.com/sergeyleschev/sergeyleschev/blob/main/leetcode-medals.png?raw=true" width="280"/></a>
 
 **Languages**: TypeScript, Shell, Database (T-SQL, PL/SQL, MySQL), Concurrency (Python3).
 
@@ -338,6 +338,44 @@ Tapping on a link will take you to relevant certificates.
     - [X] [Double-ended queue](https://github.com/sergeyleschev/leetcode-typescript) [`cert`](https://leetcode.com/sergeyleschev/)
   - [X] `System design`
     - [X] [Design large-scale systems / Amazon, Dropbox, Instagram, Facebook, Netflix, Pinterest, Twitter, Uber, Youtube](https://github.com/sergeyleschev/system-design/blob/main/sergeyleschev-system-architect-roadmap.md)
+
+<div style="page-break-after: always;"></div>
+
+# React Custom Hooks
+
+React Custom Hooks @ S. Leschev. Google Engineering Level: L6+
+
+Sources: [Github](https://github.com/sergeyleschev/react-custom-hooks)
+
+- [`useArray`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useArray/useArray.js)
+- [`useAsync`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useAsync/useAsync.js)
+- [`useClickOutside`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useClickOutside/useClickOutside.js)
+- [`useCookie`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useCookie/useCookie.js)
+- [`useCopyToClipboard`](https://github.com/sergeyleschev/react-custom-hooks/tree/main/src/hooks/useCopyToClipboard)
+- [`useDarkMode`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useDarkMode/useDarkMode.js)
+- [`useDebounce`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useDebounce/useDebounce.js)
+- [`useDebugInformation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useDebugInformation/useDebugInformation.js)
+- [`useDeepCompareEffect`](https://github.com/sergeyleschev/react-custom-hooks/tree/main/src/hooks/useDeepCompareEffect)
+- [`useEffectOnce`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useEffectOnce/useEffectOnce.js)
+- [`useEventListener`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useEventListener/useEventListener.js)
+- [`useFetch`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useFetch/useFetch.js)
+- [`useGeolocation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useGeolocation/useGeolocation.js)
+- [`useHover`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useHover/useHover.js)
+- [`useLongPress`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useLongPress.js/useLongPress.js)
+- [`useMediaQuery`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useMediaQuery/useMediaQuery.js)
+- [`useOnlineStatus`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useOnlineStatus/useOnlineStatus.js)
+- [`useOnScreen`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useOnScreen/useOnScreen.js)
+- [`usePrevious`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/usePrevious/usePrevious.js)
+- [`useRenderCount`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useRenderCount/useRenderCount.js)
+- [`useScript`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useScript/useScript.js)
+- [`useStateWithHistory`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useStateWithHistory/useStateWithHistory.js)
+- [`useStateWithValidation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useStateWithValidation/useStateWithValidation.js)
+- [`useStorage`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useStorage/useStorage.js)
+- [`useTimeout`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useTimeout/useTimeout.js)
+- [`useToggle`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useToggle/useToggle.js)
+- [`useTranslation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useTranslation/useTranslation.js)
+- [`useUpdateEffect`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useUpdateEffect/useUpdateEffect.js)
+- [`useWindowSize`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useWindowSize/useWindowSize.js)
 
 <div style="page-break-after: always;"></div>
 
