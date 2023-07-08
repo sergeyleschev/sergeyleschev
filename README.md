@@ -50,15 +50,43 @@ Apple ID, Google, Facebook (Meta), Fitbit.
 ### Support Services (L6+)
 Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
 
-<br />
-
 ### Reports (L6+)
 P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 
 ### PM Stack (L7+)
 Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)], Reetro.
 
-<br />
+## [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks/blob/main/README.md) (L6+)
+
+[`useArray`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useArray/useArray.js)
+ [`useAsync`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useAsync/useAsync.js)
+ [`useClickOutside`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useClickOutside/useClickOutside.js)
+ [`useCookie`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useCookie/useCookie.js)
+ [`useCopyToClipboard`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useCopyToClipboard/useCopyToClipboard.js)
+ [`useDarkMode`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useDarkMode/useDarkMode.js)
+ [`useDebounce`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useDebounce/useDebounce.js)
+ [`useDebugInformation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useDebugInformation/useDebugInformation.js)
+ [`useDeepCompareEffect`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useDeepCompareEffect/useDeepCompareEffect.js)
+ [`useEffectOnce`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useEffectOnce/useEffectOnce.js)
+ [`useEventListener`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useEventListener/useEventListener.js)
+ [`useFetch`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useFetch/useFetch.js)
+ [`useGeolocation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useGeolocation/useGeolocation.js)
+ [`useHover`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useHover/useHover.js)
+ [`useLongPress`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useLongPress.js/useLongPress.js)
+ [`useMediaQuery`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useMediaQuery/useMediaQuery.js)
+ [`useOnlineStatus`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useOnlineStatus/useOnlineStatus.js)
+ [`useOnScreen`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useOnScreen/useOnScreen.js)
+ [`usePrevious`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/usePrevious/usePrevious.js)
+ [`useRenderCount`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useRenderCount/useRenderCount.js)
+ [`useScript`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useScript/useScript.js)
+ [`useStateWithHistory`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useStateWithHistory/useStateWithHistory.js)
+ [`useStateWithValidation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useStateWithValidation/useStateWithValidation.js)
+ [`useStorage`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useStorage/useStorage.js)
+ [`useTimeout`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useTimeout/useTimeout.js)
+ [`useToggle`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useToggle/useToggle.js)
+ [`useTranslation`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useTranslation/useTranslation.js)
+ [`useUpdateEffect`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useUpdateEffect/useUpdateEffect.js)
+ [`useWindowSize`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useWindowSize/useWindowSize.js)
 
 <div style="page-break-after: always;"></div>
 
