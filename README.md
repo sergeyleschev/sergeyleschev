@@ -54,7 +54,7 @@ Intercom, Hiver, ChargeBee, HelpShift, HelpCrunch, Freshchat.
 P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 
 ### PM Stack (L7+)
-Agile [Scrum, Kanban, +V&E +MoSCoW +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)], Reetro.
+Agile [Scrum, Kanban, +V&E +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)], Reetro.
 
 ## [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks/blob/main/README.md) (L6+)
 
