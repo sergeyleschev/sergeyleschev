@@ -56,7 +56,7 @@ P&L, CF, Key metrics, Unit-economics [AARRR, RARRA], Cohort analysis.
 ### PM Stack (L7+)
 Agile [Scrum, Kanban, +V&E +ICE +RICE, PRINCE2], Driven Development [TDD, BDD/QUICK, DDD, FDD], ISTBQ, Clickup, Jira, Confluence, Notion, Asana, Team Foundation (TFS), Miro, diagrams.net/ERD, Microsoft Project, OmniPlan, UML [IBM Rational Rose, [Visio](https://www.linkedin.com/in/sergeyleschev/detail/assessments/Visio/report/)], Reetro.
 
-## [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks/blob/main/README.md) (L6+)
+## [React Custom Hooks](https://github.com/sergeyleschev/react-custom-hooks) (L6+)
 
 [`useArray`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useArray/useArray.js)
  [`useAsync`](https://github.com/sergeyleschev/react-custom-hooks/blob/main/src/hooks/useAsync/useAsync.js)
