@@ -481,6 +481,9 @@ The principles of which I use in my life:
 
 I have a clear focus on time-to-market and don't prioritize technical debt. And I took part in the Pre-Sale/RFX activity as a System Architect, assessment efforts for Mobile (iOS-Swift, Android-Kotlin) and Backend (NodeJS-.NET-PHP-Kafka-SQL-NoSQL). And I also formed the work of Pre-Sale as a CTO from Opportunity to Proposal via knowledge transfer to Successful Delivery.
 
+[iOS Dev Skills. Performance Review](https://github.com/sergeyleschev/ios-dev-skills). As a CTO, effective leadership goes beyond technical architecture. Conducting regular performance reviews is a crucial part of managing teams.
+I've compiled my insights on structuring the iOS development department, conducting performance reviews, and most importantly, emphasizing the significant distinctions between developers' levels based on well-defined criteria [here](https://github.com/sergeyleschev/ios-dev-skills).
+
 🛩️ #startups #management #cto #swift #typescript #database
 
 📧 Email: [sergey.leschev@gmail.com](mailto:sergey.leschev@gmail.com)
