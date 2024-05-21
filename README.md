@@ -243,3 +243,5 @@ I've compiled my insights on structuring the iOS development department, conduct
 🖨️ PDF: [Download](https://sergeyleschev.github.io/sergeyleschev-readme.pdf)
 
 ALT: SIARHEI LIASHCHOU
+
+ALT: СЕРГЕЙ ЛЕЩЕВ
